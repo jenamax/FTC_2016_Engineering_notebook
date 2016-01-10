@@ -1,0 +1,25 @@
+\subsubsection{Driver control program}
+	
+	As soon as the first prototype of the wheel base was assembled on November $12^\textbf{th}$, it was elaborated a program for test-drive. It included straight movement and turning around in 4 grades of speed. With this program, there were tested the abilities of the present wheel base.
+	Here is the source code of first version.
+	Results of the test drive were analysed so as develop a convenient control system. At first, turning around on high speed is unaccurate. So, the speed of turn was reduced proportionally to speed of straight movement. There also were added extra active buttons for accurate movement. Main drive control was moved from TopHat to a left stick. The operating area of the stick was divided into 8 zones. Zones 3 and 5 (fig. 1) are not used because of unconvenience of back semi-turns.
+	Here is the source code of second version.
+	Due to testing it was discovered, that optimal course speed to turn speed proportion varies nonlinearly from one speed mode to another. So, it's more preferable to set speed mode by exact values of both speed parameters instead of common coefficient. In addition, it was decided to reduce the number of sectors on main stick's from 8 to 6 because 2 sectors were not in use (fig. 2).
+	Here is the source code of third version.
+	
+  	\begin{figure}[H]
+  		\begin{minipage}[h]{1\linewidth}
+  			\center{\includegraphics[scale=0.2]{3Engineering/5Team_meetings/days_of_meetings/10.11.2015/images/01}}
+  			\caption{robot}
+  		\end{minipage}
+  	\end{figure}
+  	
+  	
+  	\begin{figure}[H]
+  		\begin{minipage}[h]{1\linewidth}
+  			\center{\includegraphics[scale=0.2]{3Engineering/5Team_meetings/days_of_meetings/10.11.2015/images/01}}
+  			\caption{robot}
+  		\end{minipage}
+  	\end{figure}
+  
+\fillpage

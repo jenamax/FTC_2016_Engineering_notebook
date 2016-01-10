@@ -1,0 +1,80 @@
+
+\subsubsection{Lift}
+\begin{itemize}
+\item The lift consists of two beams. One beam is stationar and it is fixed vertically on the back part of the robot. The second beam turns by DC motor that mounted at the top of stationar beam. The length of beams must allow to score debris to the high goal from the middle zone and to middle goal from low zone.
+
+\item For estimating optimal length of beams it was made drawing in GeoGebra.
+\end{itemize}
+\begin{figure}[H]
+	\begin{minipage}[h]{0.6\linewidth}
+		{\includegraphics[scale=0.7]{days_L/Lift+bucket/images/02}}
+		\caption{Drawing of the lift}
+	\end{minipage}
+	\hfill
+	\begin{minipage}[h]{0.6\linewidth}
+		{\includegraphics[scale=0.7]{days_L/Lift+bucket/images/10}}
+		\caption{Model of the lift}
+	\end{minipage}
+\end{figure}
+\fillpage
+
+\subsubsection{Bucket} 
+\begin{itemize}
+\item The bucket's size allow to fit 3 cubes and 2 balls. So we can collect 5 cubes (because size of cube is smaller than size of ball) or 3-4 balls. It is enough for us because we want to concentrate on collecting cubes. 
+\item For estimating optimal size and form it was made drawing in GeoGebra. During designing model of the bucket for all sizes were made dimention tolerances 2cm.
+\begin{figure}[H]
+	\begin{minipage}[h]{\linewidth}
+		\center{\includegraphics[scale=0.4]{days_L/Lift+bucket/images/01}}
+		\caption{Drawing of the bucket}
+	\end{minipage}
+\end{figure} 
+\item But after that it was decided to change size of the bucket. The width entrance hole and width of the scoring box should be the same (The width of the box for debris - 14.5cm. So it was decided to make the bucket's width 13.5 - 14cm). It ensure maximal accuracy of scoring debris. It was decided to make bucket that can fit 5 cubes or 3 balls.
+\begin{figure}[H]
+	\begin{minipage}[h]{0.55\linewidth}
+		{\includegraphics[scale=0.15]{days_L/Lift+bucket/images/03}}
+		\caption{Changed bucket}
+	\end{minipage}
+	\hfill
+	\begin{minipage}[h]{0.55\linewidth}
+		{\includegraphics[scale=0.5]{days_L/Lift+bucket/images/06}}
+		\caption{Model of the bucket}
+	\end{minipage}
+\end{figure}
+
+\item For building bucket it was decided use plastic PET 0.5mm. It is easy to cut it, it light, cheap and clear that allow us to see how much elements are incide the bucket.
+\item The bucket mounts to beam that turns by the servo which fixed on the lift. It need because else we have to make detail that fix bucket to the elevator on the defined angle. It require high accuracy. So it will be difficult to make this detail. In addition the mount with servo extend operational window of the lift. 
+\begin{figure}[H]
+	\begin{minipage}[h]{\linewidth}
+		\center{\includegraphics[scale=0.9]{days_L/Lift+bucket/images/11}}
+		\caption{Model of the mount for bucket}
+	\end{minipage}
+\end{figure}
+
+\item The bucket equped by the cover that turn by the servo and close entrance hole of the bucket. It prevent to falling debris out it during turning of the moving beam of lift. Also it can to prevent balls get into the bucket when we collect only cubes. When it closed not fully (so that distance between bottom edge of cover and floor is about 6cm) the cube can get into the bucket but the ball is not. When we open cover the balls can get to the bucket.
+\item The cover fix on 14cm beam that turn by the servo. It was decided use so long beam as the most optimal variant when cover move vertically because otherwise it can to prevent rotating gripper for debris. When it turn around the circle with big radius trajectory of cover's moving is close to vertical.
+\begin{figure}[H]
+	\begin{minipage}[h]{\linewidth}
+		\center{\includegraphics[scale=0.4]{days_L/Lift+bucket/images/07}}
+		\caption{The bucket with cover}
+	\end{minipage}
+\end{figure}
+
+\item During tests it was found that it will be difficult turn to box by the robot. So it was decided make mechanism that turn it to side. 
+
+\item The mechanism for turning bucket to side is a beam that turn along the top plane of moving beam of the lift. The servo that turn it is fixed in the middle of moving beam of the lift. It connected with the chain gear (through the transmission in order to prevent failure of servo due to chain tension). The second chain gear is in the bottom of moving beam of the lift and it turn beam with bucket. It was decided make this system because servo take up much space and if it fixed near the bucket it will prevent it's turning.
+\begin{figure}[H]
+	\begin{minipage}[h]{\linewidth}
+		\center{\includegraphics[scale=0.6]{days_L/Lift+bucket/images/12}}
+		\caption{Mechanism for turning bucket to side}
+	\end{minipage}
+\end{figure}
+
+\item Also they were calculated moments of force that acts to servos. From this calculations they were choosed servo for turning bucket and cover. During the calculation were taken into account mass of construction elements and safety coefficient 1.5 For turning bucket (up and down and to side) it was decided use servo MG995 (torque 11kg*cm) for cover - HS-485HB(torque 5.9 kg*cm).
+\begin{figure}[H]
+	\begin{minipage}[h]{\linewidth}
+		\center{\includegraphics[scale=0.6]{days_L/Lift+bucket/images/09}}
+		\caption{The table of moments}
+	\end{minipage}
+\end{figure}
+\end{itemize}
+\fillpage

@@ -1,0 +1,50 @@
+\select@language {russian}
+\contentsline {section}{\numberline {1}Team PML 30 X}{2}
+\contentsline {subsubsection}{\numberline {1.0.1}Instructors}{3}
+\contentsline {subsubsection}{\numberline {1.0.2}Team members}{5}
+\contentsline {section}{\numberline {2}Annotation}{8}
+\contentsline {section}{\numberline {3}Engineering section}{10}
+\contentsline {subsection}{\numberline {3.1}Brainstorming (21.09.2015)}{10}
+\contentsline {subsection}{\numberline {3.2}Strategy discussing (22.09.2015)}{14}
+\contentsline {subsection}{\numberline {3.3}Concept discussing (24.09.2015 - 03.10.2015)}{15}
+\contentsline {subsubsection}{\numberline {3.3.1}24.09.2015}{15}
+\contentsline {subsubsection}{\numberline {3.3.2}26.09.2015}{17}
+\contentsline {subsubsection}{\numberline {3.3.3}28.09.2015}{18}
+\contentsline {subsubsection}{\numberline {3.3.4}01.10.2015}{19}
+\contentsline {subsubsection}{\numberline {3.3.5}03.10.2015}{20}
+\contentsline {subsection}{\numberline {3.4}Elaborating robot }{22}
+\contentsline {subsubsection}{\numberline {3.4.1}Wheel base}{22}
+\contentsline {subsubsection}{\numberline {3.4.2}Lift}{25}
+\contentsline {subsubsection}{\numberline {3.4.3}Bucket}{27}
+\contentsline {subsubsection}{\numberline {3.4.4}Gripper for debris}{31}
+\contentsline {subsubsection}{\numberline {3.4.5}Mechanism for scoring autonomous climbers and pushing button}{33}
+\contentsline {paragraph}{Plan of creating module:}{33}
+\contentsline {paragraph}{Ideas that were looked:}{33}
+\contentsline {paragraph}{Calculation of moments}{33}
+\contentsline {paragraph}{Work of module}{33}
+\contentsline {subsection}{\numberline {3.5}Team meetings and events}{35}
+\contentsline {subsubsection}{\numberline {3.5.1}16.11.2015}{35}
+\contentsline {subsubsection}{\numberline {3.5.2}19.11.2015}{35}
+\contentsline {subsubsection}{\numberline {3.5.3}21.11.2015}{36}
+\contentsline {subsubsection}{\numberline {3.5.4}23.11.2015}{36}
+\contentsline {subsubsection}{\numberline {3.5.5}24.11.2015}{37}
+\contentsline {subsubsection}{\numberline {3.5.6}25.11.2015}{38}
+\contentsline {subsubsection}{\numberline {3.5.7}26.11.2015}{39}
+\contentsline {subsubsection}{\numberline {3.5.8}27.11.2015}{39}
+\contentsline {subsubsection}{\numberline {3.5.9}28.11.2015}{39}
+\contentsline {subsubsection}{\numberline {3.5.10}30.11.2015}{39}
+\contentsline {subsubsection}{\numberline {3.5.11}01.12.2015}{39}
+\contentsline {subsubsection}{\numberline {3.5.12}02.12.2015}{39}
+\contentsline {subsubsection}{\numberline {3.5.13}"Robofest-South" (5-6 of December)}{42}
+\contentsline {paragraph}{5 of December}{42}
+\contentsline {paragraph}{6 of December}{42}
+\contentsline {subsubsection}{\numberline {3.5.14}8.12.15}{44}
+\contentsline {subsubsection}{\numberline {3.5.15}9.12.15}{44}
+\contentsline {subsubsection}{\numberline {3.5.16}10.12.15}{45}
+\contentsline {subsubsection}{\numberline {3.5.17}12.12.15}{45}
+\contentsline {subsubsection}{\numberline {3.5.18}14.12.15}{45}
+\contentsline {subsubsection}{\numberline {3.5.19}15.12.15}{46}
+\contentsline {subsubsection}{\numberline {3.5.20}16.12.15}{46}
+\contentsline {section}{\numberline {4}Appendix}{47}
+\contentsline {subsection}{\numberline {4.1}Supplementary materials which were used in the robot's construction}{47}
+\contentsline {section}{\numberline {5}Thanks and prospects}{48}

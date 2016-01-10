@@ -1,0 +1,91 @@
+\documentclass[11pt, twoside]{article}
+
+\usepackage{ucs}
+\usepackage{graphicx}
+\usepackage{verbatim}
+\usepackage{anyfontsize}
+\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc} 
+\usepackage[english, russian]{babel}
+\usepackage{amssymb, amsfonts, amsmath, mathtext, cite, enumerate, float}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{epstopdf}
+\fancypagestyle{titlestyle}
+{
+	\fancyhead{}
+	\fancyfoot{}
+	\renewcommand{\footrulewidth}{0.0 mm}
+	\renewcommand{\headrulewidth}{0.0 mm}
+}
+
+\geometry{left=2cm}
+\geometry{right=1.5cm}
+\geometry{top=2cm}
+\geometry{bottom=2cm} 
+
+\newcommand\measurepage{\dimexpr\pagegoal-\pagetotal-\baselineskip\relax}
+
+\newcommand\fillpage{\includegraphics[width=\textwidth, height=\measurepage]{img/fill_page.eps} \newpage}
+
+\newenvironment{itemize*}%
+{\begin{itemize}%
+		\setlength{\itemsep}{1pt}%
+		\setlength{\parskip}{1pt}}%
+	{\end{itemize}}
+
+
+\newenvironment{enumerate*}%
+{\begin{enumerate} %
+		\setlength{\itemsep}{1pt}%
+		\setlength{\parskip}{1pt}}%
+{\end{enumerate}}
+
+%\newcounter{number_of_meeting}\setcounter{number_of_meeting}{0}
+
+%\renewcommand{\labelenumii}{\arabic{enumi}.\ara%bic{enumii}.}
+%\renewcommand{\labelenumiii}{\arabic{enumi}.\ar%abic{enumii}.\arabic{enumiii}.}
+%\renewcommand{\labelenumiv}{\arabic{enumi}.\ara%bic{enumii}.\arabic{enumiii}.\arabic{enumiv}.}
+%\pagestyle{fancy}
+%{
+%\fancyhead{}
+%\fancyhead[C]{PML30 Saint-Petersburg}
+%\fancyfoot{}
+%\fancyfoot[LE,RO]{\thepage}
+%\fancyfoot[C]{Russia, St. Petersburg, %Physics-Mathematics Lyceum №30. 2014-2015}
+%}
+
+
+\begin{document}
+
+	
+	\input{0Title/Title}
+
+	
+	%\tableofcontents{}
+	%\newpage
+	
+	%\input{1Introduction/1From_authors/From_authors_H}
+	\input{1Introduction/2Our_team/Our_team_H}
+	\input{1Introduction/3Our_sponsors/Our_sponsors_H}
+	\input{1Introduction/4How_to_read/How_to_read_H}
+	
+	%\input{2Business_plan/Business_plan_H}
+	
+	%\input{3Engineering/1Brainstorming/Brainstorming_H}
+	%\input{3Engineering/2Strategy_discussing/Strategy_discussing_H}
+	%\input{3Engineering/3Concept_discussing/Concept_discussing_H}
+	%\input{3Engineering/4Designing_modules/Designing_modules_H}
+	%\input{3Engineering/5Team_meetings/Team_meetings_H}
+	%\input{3Engineering/6Specifications_for_modules/Specifications_for_modules_H}
+	%\input{3Engineering/7Specifications_for_programmes/Specifications_for_programmes_H}
+	%\input{3Engineering/8Events/Events_H}
+	%\input{3Engineering/9Key_summary/Key_summary_H}
+	
+	\input{4Appendix/1Program/Program_H}
+	%\input{4Appendix/2Electric_scheme/Electric_scheme_H}
+	%\input{4Appendix/3Model/Model_H}
+	%\input{4Appendix/4Blueprints/Blueprints_H}
+	\input{4Appendix/5List_of_materials/List_of_materials_H}
+	
+\end{document}

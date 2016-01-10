@@ -1,0 +1,89 @@
+\documentclass[11pt, twoside]{article}
+
+\usepackage{ucs}
+\usepackage{graphicx}
+\usepackage{verbatim}
+\usepackage{anyfontsize}
+\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc} 
+\usepackage[english, russian]{babel}
+\usepackage{amssymb, amsfonts, amsmath, mathtext, cite, enumerate, float}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{epstopdf}
+\usepackage{parskip}
+\fancypagestyle{titlestyle}
+{
+	\fancyhead{}
+	\fancyfoot{}
+	\renewcommand{\footrulewidth}{0.0 mm}
+	\renewcommand{\headrulewidth}{0.0 mm}
+}
+
+\geometry{left=2cm}
+\geometry{right=1.5cm}
+\geometry{top=2cm}
+\geometry{bottom=2cm} 
+
+\newcommand\measurepage{\dimexpr\pagegoal-\pagetotal-\baselineskip\relax}
+
+\newcommand\fillpage{\includegraphics[width=\textwidth, height=\measurepage]{img/fill_page.eps} \newpage}
+
+\newenvironment{itemize*}%
+{\begin{itemize}%
+		\setlength{\itemsep}{1pt}%
+		\setlength{\parskip}{1pt}}%
+	{\end{itemize}}
+
+
+\newenvironment{enumerate*}%
+{\begin{enumerate} %
+		\setlength{\itemsep}{1pt}%
+		\setlength{\parskip}{1pt}}%
+	{\end{enumerate}}
+
+%\newcounter{number_of_meeting}\setcounter{number_of_meeting}{0}
+
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}.}
+\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.}
+\renewcommand{\labelenumiv}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.\arabic{enumiv}.}
+\pagestyle{fancy}
+{
+\fancyhead{}
+\fancyhead[C]{PML30 Saint-Petersburg}
+\fancyfoot{}
+\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[C]{Russia, St. Petersburg, Physics-Mathematics Lyceum №30. 2015-2016}
+}
+
+
+\begin{document}
+
+	
+	\input{Simple_robot/0Title/Title}
+	\input{key_chapters/Team/Team}
+	\input{key_chapters/Annotation/Annotation}
+	
+	\tableofcontents \fillpage
+	
+	%\input{key_chapters/How_to_read/How_to_read}
+	%\input{key_chapters/Events/Events}
+	%\input{key_chapters/Business_plan/Business_plan}
+	
+	\input{sessions_L/Brainstorming}
+	\input{sessions_L/Strategy_discussing_L}
+	\input{sessions_L/Concept_discussing_L}
+	\input{sessions_L/Robot_development_L}
+	\input{days_L/Meetings/before_south}
+	\include{days_L/Competitions/south}
+	\input{days_L/Meetings/south-ryazan}
+	%\input{sessions_L/Key_summary/Key_summary}
+	
+	\input{Simple_robot/4Appendix/5List_of_materials/List_of_materials_L}
+	
+	\input{key_chapters/Thanks_for_sponsors/Thanks_for_sponsors}
+    %ending:
+	%\input{key_chapters/appendix/appendix}
+	%\input{key_chapters/Materials/Materials}
+	
+\end{document}

@@ -1,0 +1,94 @@
+\subsection{Brainstorming (22.09.2015)}
+	\textit{\textbf{Time frame:}} 22.09.2015 17:00-21:00 \newline
+	\textit{\textbf{Preview:}} Since this year FTC rules were published, every member of our team had carefully read them. Today we gathered together to discuss all the aspects of this year gameplay and think of how to get on with the most significant features of the game. \newline \newline
+	\textit{\textbf{General aspects:}}
+	\begin{table}[H]
+		\vspace{-2mm}
+		\begin{center}
+			\begin{tabular}{|p{0.4\linewidth}|p{0.5\linewidth}|p{0.1\linewidth}|}
+				\hline
+				Features & Solutions & Label \\
+				\hline
+				Moving to the ramp is essential if we want to achieve high score. & We need to realise the wheel base that will be good at moving on the ramp. & chassis \\
+				\hline
+				It will take a lot of time to climb to the 3-rd zone of the ramp. & We can deliver debris to the highest goal with elevator standing on the 2-nd zone instead of climbing to the 3-rd. & elevator \\
+				\hline
+				Space between each two bars in 3-rd zone is wider than the standard TETRIX wheel diameter. & We can use tracks or 3-4 wheels from each side of the robot in order to not to get stuck. & chassis \\
+				\hline
+				Goals for debris have a very little capacity. & It is more preferable to collect cubes than balls. That's why we need mechanism to prevent balls from collecting. & gripper \\
+				\hline
+				Pulling up costs 80 points. It's not difficult to realise then. & We need to spend at least 1 DC motor for pulling up. We can grasp the pull-up bar with hook and lift to it by reeling the cable. & pull up \\
+				\hline
+				Moving over the inclined plane and pulling up require high moment on motors. However, the number of motors is limited. & Our robot should be light enough to decrease the moment required for moiving and, as a result, increase speed of moving. & weight \\
+				\hline
+				It's quite unconvenient to exchange ramps with your ally during the game. & We will negotiate with our ally about spheres of influence before each game. We need to make two autonomus programs for climbing onto both ramps. & strategy \\
+				\hline
+				Robot can grip 5 debris at once, when the maximal capacity of one bucket is 24 cubes. So, to fill one bucket robot has to repeat collecting and taking cubes to the goal 5 times per 1,5 minutes & We can make gripper for debris at the front side of the robot and extract scoring elements from the back side. It will allow us to go to the ramp backwards, so we won't need to turn around on the ramp before going down to collect debris and save time. & concept \\
+				\hline
+				All the zones of red alliance are the mirror reflection of blue alliance's zones. & Our robot should be symmetrical and capable of playing on both sides of field. & concept \\
+				\hline
+				This year autonomus period has no difficult tasks. The only hardness is that both robots in alliance have to fulfil the same tasks at the same place. Furthermore, robots can start autonomus period form different positions. So, it's difficult to predict how the another robot in our allianse will move. & We need to make a number of programs for autonomus period from different positions for easier adjustment to the ally's strategy. & strategy \\
+				\hline
+				It's not restricted to collect debris in autonomus period. & We need to realise automatically collection of 5 cubes in autonomus period. At the conclusion of autonomus period the robot will remain on the ramp with 5 cubes and we will put them to the goal immediately & strategy \\
+				\hline
+			\end{tabular}
+		\end{center}
+	\end{table}
+	
+	 \newline
+	\textit{\textbf{The main conception of engineering process:}} FTC rules have a various number of heterogeneous objectives. Some of them are simple, while other are quite challenging. The quality of performance in same tasks depends on laboriousness of realisation of mechanisms. \newline
+	In these conditions, we made a decision to develop two versions of robot:
+	\begin{enumerate*}
+		\item a simpe, but reliable one, to startup and perform in regional competition
+		
+		and
+		
+		\item a high-quality one, which will take a lot of time to design and assemble to perform in further competitions.
+		
+	\end{enumerate*}
+	
+	 \newline
+	\textit{\textbf{Detailed explaination:}}
+	\begin{enumerate*}
+		\item As we know from our previous FTC seasons experience, there are strict constraints for wheel bases can be used for climbing mountains. Firstly, omni and mechanium wheels are completely not suitable, because mechanium wheels can ride only on plain surface (when 2-nd and 3-rd zones have cross hurdles) and omni wheels have ability of undependable movement on small rollers so they behave very unstable on mountain. Various conbinations of standard and omni wheels can't be used too, as in the 2-nd zone there are obstacles which can cause some wheels lose contact with ground and if the rest of wheels will behave differently, the whole robot would be unstable. In conclusion, we can use only standard wheels or tracks.
+		
+		Additionally, wheel base should be symmetrical against central axis for stable climbing to the mountain.
+		
+		If we decided to climb 3-rd zone with standard wheels, we will have to put 3-4 wheels at the each side to avoid getting stuck on hurdles (the space between two hurdles is for about 14 cm, when the diameter of big TETRIX wheels is only 10 cm).
+		\begin{figure}[H]
+			\begin{minipage}[h]{1\linewidth}
+				\center{\includegraphics[scale=0.2]{00.00.2015/images/01}}
+				\caption{possible wheel bases}
+			\end{minipage}
+		\end{figure}
+		
+		\item To score in high zone goal from 2-nd zone robot should have a mehanism for delivering debris to the distance of 40 cm or more. Shooting debris is entirely unsuitable approach, because it's impossible to realise enough accuracy for stable scoring cubes and especially balls. Another way is elevator. There are three types of lifts which familiar to us: they're crank lift, scissor lift and retractable rails. 
+		
+		Scissor lift is not suitable for this year competition, because despite it's main advantage - the ability of extracting the longest distances of all - it's too difficult in development.
+		
+		Crank lift allows to vary the angle of turning of each segment. However, it requires at least one DC motor of strong servo for every joint.
+		
+		Retractable rails can only move along one axis. However, they require the least space and can be equipped by one DC motor (as all the motors are connected to the only reel, which winds the cable)
+		\begin{figure}[H]
+			\begin{minipage}[h]{1\linewidth}
+				\center{\includegraphics[scale=0.2]{00.00.2015/images/02}}
+				\caption{types of elevators}
+			\end{minipage}
+		\end{figure}
+		
+	\end{enumerate*}
+	
+	 \newline
+	\textit{\textbf{Additional comments:}} For the next meeting we need to think of two issues:
+	\begin{enumerate*}
+		\item which tasks our robot should be able to execute without loss of efficiency
+		
+		and
+		
+		\item to set the priorities of performing tasks during the game.
+		
+	\end{enumerate*}
+  
+
+
+\fillpage

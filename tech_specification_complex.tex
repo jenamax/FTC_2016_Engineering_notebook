@@ -1,0 +1,63 @@
+\documentclass[11pt, twoside]{article}
+
+\usepackage{ucs}
+\usepackage{graphicx}
+\usepackage{verbatim}
+\usepackage{anyfontsize}
+\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc} 
+\usepackage[english, russian]{babel}
+\usepackage{amssymb, amsfonts, amsmath, mathtext, cite, enumerate, float}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{epstopdf}
+\fancypagestyle{titlestyle}
+{
+	\fancyhead{}
+	\fancyfoot{}
+	\renewcommand{\footrulewidth}{0.0 mm}
+	\renewcommand{\headrulewidth}{0.0 mm}
+}
+
+\geometry{left=2cm}
+\geometry{right=1.5cm}
+\geometry{top=2cm}
+\geometry{bottom=2cm} 
+
+\newcommand\measurepage{\dimexpr\pagegoal-\pagetotal-\baselineskip\relax}
+
+\newcommand\fillpage{\includegraphics[width=\textwidth, height=\measurepage]{img/fill_page.eps} \newpage}
+
+\newenvironment{itemize*}%
+{\begin{itemize}%
+		\setlength{\itemsep}{1pt}%
+		\setlength{\parskip}{1pt}}%
+	{\end{itemize}}
+
+
+\newenvironment{enumerate*}%
+{\begin{enumerate} %
+		\setlength{\itemsep}{1pt}%
+		\setlength{\parskip}{1pt}}%
+	{\end{enumerate}}
+
+%\newcounter{number_of_meeting}\setcounter{number_of_meeting}{0}
+
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}.}
+\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.}
+\renewcommand{\labelenumiv}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.\arabic{enumiv}.}
+\pagestyle{fancy}
+{
+\fancyhead{}
+\fancyhead[C]{PML30 Saint-Petersburg}
+\fancyfoot{}
+\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[C]{Russia, St. Petersburg, Physics-Mathematics Lyceum №30. 2014-2015}
+}
+
+
+\begin{document}
+
+	\input{days_H./02.10.2015/02.10.2015}
+	
+\end{document}

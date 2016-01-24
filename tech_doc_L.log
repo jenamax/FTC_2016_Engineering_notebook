@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.26)  10 JAN 2016 22:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.26)  22 JAN 2016 22:21
 entering extended mode
 **tech_doc_L.tex
-(C:\Robotics\pml30-team\tech_doc_L.tex
+(C:\Robotics\FTC_2016_Engineering_notebook\tech_doc_L.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -301,8 +301,12 @@ G,.JBIG2,.JB2,.eps]
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-(C:\Robotics\pml30-team\tech_doc_L.aux
-(C:\Robotics\pml30-team\days_L/Competitions/south.aux))
+(C:\Robotics\FTC_2016_Engineering_notebook\tech_doc_L.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
@@ -316,11 +320,6 @@ LaTeX Font Info:    ... okay on input line 60.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 60.
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 60.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
 LaTeX Font Info:    ... okay on input line 60.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
@@ -374,7 +373,7 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:\Robotics\pml30-team\Simple_robot/0Title/Title.tex
+(C:\Robotics\FTC_2016_Engineering_notebook\Simple_robot/0Title/Title.tex
 <Simple_robot/0Title/images/01.jpg, id=1, 257.96375pt x 257.96375pt>
 File: Simple_robot/0Title/images/01.jpg Graphic file (type jpg)
 
@@ -437,13 +436,14 @@ Package pdftex.def Info: Simple_robot/0Title/images/06.jpg used on input line 2
 (pdftex.def)             Requested size: 165.62003pt x 94.8551pt.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Robotics/pml30-team/Si
-mple_robot/0Title/images/01.jpg> <C:/Robotics/pml30-team/Simple_robot/0Title/im
-ages/02.jpg> <C:/Robotics/pml30-team/Simple_robot/0Title/images/03.jpg> <C:/Rob
-otics/pml30-team/Simple_robot/0Title/images/04.png> <C:/Robotics/pml30-team/Sim
-ple_robot/0Title/images/05.png> <C:/Robotics/pml30-team/Simple_robot/0Title/ima
-ges/06.jpg>])
-(C:\Robotics\pml30-team\key_chapters/Team/Team.tex
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Robotics/FTC_2016_Engi
+neering_notebook/Simple_robot/0Title/images/01.jpg> <C:/Robotics/FTC_2016_Engin
+eering_notebook/Simple_robot/0Title/images/02.jpg> <C:/Robotics/FTC_2016_Engine
+ering_notebook/Simple_robot/0Title/images/03.jpg> <C:/Robotics/FTC_2016_Enginee
+ring_notebook/Simple_robot/0Title/images/04.png> <C:/Robotics/FTC_2016_Engineer
+ing_notebook/Simple_robot/0Title/images/05.png> <C:/Robotics/FTC_2016_Engineeri
+ng_notebook/Simple_robot/0Title/images/06.jpg>])
+(C:\Robotics\FTC_2016_Engineering_notebook\key_chapters/Team/Team.tex
 <key_chapters/Team/images/09.jpg, id=18, 1284.8pt x 856.19875pt>
 File: key_chapters/Team/images/09.jpg Graphic file (type jpg)
 
@@ -481,8 +481,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-33.def"
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
-) [2 <C:/Robotics/pml30-team/key_chapters/Team/images/09.jpg> <C:/Robotics/pml3
-0-team/img/fill_page-eps-converted-to.pdf>]
+) [2 <C:/Robotics/FTC_2016_Engineering_notebook/key_chapters/Team/images/09.jpg
+> <C:/Robotics/FTC_2016_Engineering_notebook/img/fill_page-eps-converted-to.pdf
+>]
 <key_chapters/Team/images/07.jpg, id=28, 868.24374pt x 766.865pt>
 File: key_chapters/Team/images/07.jpg Graphic file (type jpg)
 
@@ -521,8 +522,8 @@ Package pdftex.def Info: key_chapters/Team/images/06.jpg used on input line 49.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3 <C:/Robotics/pml30-team/key_chapters/Team/images/07.jpg> <C:/Robotics/pml30
--team/key_chapters/Team/images/08.jpg>]
+ [3 <C:/Robotics/FTC_2016_Engineering_notebook/key_chapters/Team/images/07.jpg>
+ <C:/Robotics/FTC_2016_Engineering_notebook/key_chapters/Team/images/08.jpg>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-10-03 15:02:42
 (epstopdf)                    size: 35507 bytes
@@ -534,12 +535,13 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 59.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
- <use img/fill_page-eps-converted-to.pdf>
+
+<use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 59.
 (pdftex.def)             Requested size: 514.75555pt x 168.03035pt.
- [4 <C:/Robotics/pml30-team/key_chapters/Team/images/05.jpg> <C:/Robotics/pml30
--team/key_chapters/Team/images/06.jpg>]
+ [4 <C:/Robotics/FTC_2016_Engineering_notebook/key_chapters/Team/images/05.jpg>
+ <C:/Robotics/FTC_2016_Engineering_notebook/key_chapters/Team/images/06.jpg>]
 <key_chapters/Team/images/04.jpg, id=40, 658.46pt x 740.7675pt>
 File: key_chapters/Team/images/04.jpg Graphic file (type jpg)
 
@@ -567,8 +569,8 @@ File: key_chapters/Team/images/10.jpg Graphic file (type jpg)
 Package pdftex.def Info: key_chapters/Team/images/10.jpg used on input line 91.
 
 (pdftex.def)             Requested size: 242.10637pt x 363.76181pt.
- [5 <C:/Robotics/pml30-team/key_chapters/Team/images/04.jpg> <C:/Robotics/pml30
--team/key_chapters/Team/images/01.jpg>]
+ [5 <C:/Robotics/FTC_2016_Engineering_notebook/key_chapters/Team/images/04.jpg>
+ <C:/Robotics/FTC_2016_Engineering_notebook/key_chapters/Team/images/01.jpg>]
 <key_chapters/Team/images/11.jpg, id=46, 359.3425pt x 314.17375pt>
 File: key_chapters/Team/images/11.jpg Graphic file (type jpg)
 
@@ -599,12 +601,13 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6 <C:/Robotics/pml30-team/key_chapters/Team/images/10.jpg> <C:/Robotics/pml30
--team/key_chapters/Team/images/11.jpg>] [7])
-(C:\Robotics\pml30-team\key_chapters/Annotation/Annotation.tex
+ [6 <C:/Robotics/FTC_2016_Engineering_notebook/key_chapters/Team/images/10.jpg>
+ <C:/Robotics/FTC_2016_Engineering_notebook/key_chapters/Team/images/11.jpg>] [
+7])
+(C:\Robotics\FTC_2016_Engineering_notebook\key_chapters/Annotation/Annotation.t
+ex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 3.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
@@ -626,7 +629,7 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 6.
 (pdftex.def)             Requested size: 514.75555pt x 509.76463pt.
  [8])
-(C:\Robotics\pml30-team\tech_doc_L.toc)
+(C:\Robotics\FTC_2016_Engineering_notebook\tech_doc_L.toc)
 \tf@toc=\write3
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-10-03 15:02:42
@@ -643,9 +646,9 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 67.
-(pdftex.def)             Requested size: 514.75555pt x 17.31892pt.
+(pdftex.def)             Requested size: 514.75555pt x 643.07191pt.
  [9]
-(C:\Robotics\pml30-team\sessions_L/Brainstorming.tex
+(C:\Robotics\FTC_2016_Engineering_notebook\sessions_L/Brainstorming.tex
 Underfull \hbox (badness 6001) in paragraph at lines 25--25
 \T2A/cmr/m/n/10.95 up require high moment on motors.
  []
@@ -714,7 +717,8 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 99.
 (pdftex.def)             Requested size: 514.75555pt x 430.8691pt.
  [13])
-(C:\Robotics\pml30-team\sessions_L/Strategy_discussing_L.tex
+(C:\Robotics\FTC_2016_Engineering_notebook\sessions_L/Strategy_discussing_L.tex
+
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
@@ -741,12 +745,12 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 46.
 (pdftex.def)             Requested size: 514.75555pt x 107.56158pt.
  [14])
-(C:\Robotics\pml30-team\sessions_L/Concept_discussing_L.tex
+(C:\Robotics\FTC_2016_Engineering_notebook\sessions_L/Concept_discussing_L.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-(C:\Robotics\pml30-team\days_L/24.09.2015/24.09.2015.tex
+(C:\Robotics\FTC_2016_Engineering_notebook\days_L/24.09.2015/24.09.2015.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
@@ -783,7 +787,7 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 58.
 (pdftex.def)             Requested size: 514.75555pt x 410.59703pt.
  [16])
-(C:\Robotics\pml30-team\days_L/26.09.2015/26.09.2015.tex
+(C:\Robotics\FTC_2016_Engineering_notebook\days_L/26.09.2015/26.09.2015.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
@@ -809,7 +813,7 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 40.
 (pdftex.def)             Requested size: 514.75555pt x 214.7823pt.
  [17])
-(C:\Robotics\pml30-team\days_L/28.09.2015/28.09.2015.tex
+(C:\Robotics\FTC_2016_Engineering_notebook\days_L/28.09.2015/28.09.2015.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
@@ -845,7 +849,7 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 34.
 (pdftex.def)             Requested size: 514.75555pt x 297.07346pt.
  [18])
-(C:\Robotics\pml30-team\days_L/01.10.2015/01.10.2015.tex
+(C:\Robotics\FTC_2016_Engineering_notebook\days_L/01.10.2015/01.10.2015.tex
 Overfull \hbox (1.35028pt too wide) in paragraph at lines 2--6
 \T2A/cmr/bx/it/10.95 Preview: \T2A/cmr/m/n/10.95 The purpose for current meetin
 g was creating structural layout of the robot in CAD Creo Parametric
@@ -856,7 +860,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
 
-<days_L/01.10.2015/images/01.png, id=99, 400.49625pt x 367.3725pt>
+<days_L/01.10.2015/images/01.png, id=97, 400.49625pt x 367.3725pt>
 File: days_L/01.10.2015/images/01.png Graphic file (type png)
 
 <use days_L/01.10.2015/images/01.png>
@@ -879,8 +883,8 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 30.
 (pdftex.def)             Requested size: 514.75555pt x 96.80116pt.
 
-[19 <C:/Robotics/pml30-team/days_L/01.10.2015/images/01.png>])
-(C:\Robotics\pml30-team\days_L/03.10.2015/03.10.2015.tex
+[19 <C:/Robotics/FTC_2016_Engineering_notebook/days_L/01.10.2015/images/01.png>
+]) (C:\Robotics\FTC_2016_Engineering_notebook\days_L/03.10.2015/03.10.2015.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
@@ -902,17 +906,18 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 88.
 (pdftex.def)             Requested size: 514.75555pt x 533.08488pt.
  [21]))
-(C:\Robotics\pml30-team\sessions_L/Robot_development_L.tex
-(C:\Robotics\pml30-team\days_L/Wheel_base/Wheel_base.tex
-<days_L/Wheel_base/images/01.png, id=111, 493.845pt x 277.78781pt>
+(C:\Robotics\FTC_2016_Engineering_notebook\sessions_L/Robot_development_L.tex
+(C:\Robotics\FTC_2016_Engineering_notebook\days_L/Wheel_base/Wheel_base.tex
+<days_L/Wheel_base/images/01.png, id=109, 493.845pt x 277.78781pt>
 File: days_L/Wheel_base/images/01.png Graphic file (type png)
 
 <use days_L/Wheel_base/images/01.png>
 Package pdftex.def Info: days_L/Wheel_base/images/01.png used on input line 16.
 
 (pdftex.def)             Requested size: 395.07652pt x 222.23053pt.
- [22 <C:/Robotics/pml30-team/days_L/Wheel_base/images/01.png>]
-<days_L/Wheel_base/images/02.png, id=115, 463.7325pt x 260.47313pt>
+ [22 <C:/Robotics/FTC_2016_Engineering_notebook/days_L/Wheel_base/images/01.png
+>]
+<days_L/Wheel_base/images/02.png, id=113, 463.7325pt x 260.47313pt>
 File: days_L/Wheel_base/images/02.png Graphic file (type png)
 
 <use days_L/Wheel_base/images/02.png>
@@ -937,9 +942,10 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23 <C:/Robotics/pml30-team/days_L/Wheel_base/images/02.png>] [24])
-(C:\Robotics\pml30-team\days_L/Lift+bucket/Lift+bucket.tex
-<days_L/Lift+bucket/images/02.png, id=123, 582.2553pt x 318.4698pt>
+ [23 <C:/Robotics/FTC_2016_Engineering_notebook/days_L/Wheel_base/images/02.png
+>] [24])
+(C:\Robotics\FTC_2016_Engineering_notebook\days_L/Lift+bucket/Lift+bucket.tex
+<days_L/Lift+bucket/images/02.png, id=121, 582.2553pt x 318.4698pt>
 File: days_L/Lift+bucket/images/02.png Graphic file (type png)
 
 <use days_L/Lift+bucket/images/02.png>
@@ -951,7 +957,7 @@ Overfull \hbox (98.74657pt too wide) in paragraph at lines 10--11
 [][] 
  []
 
-<days_L/Lift+bucket/images/10.png, id=124, 365.11406pt x 398.99063pt>
+<days_L/Lift+bucket/images/10.png, id=122, 365.11406pt x 398.99063pt>
 File: days_L/Lift+bucket/images/10.png Graphic file (type png)
 
 <use days_L/Lift+bucket/images/10.png>
@@ -963,501 +969,43 @@ Overfull \hbox (105.38104pt too wide) in paragraph at lines 9--18
 []$[]$  $[]$ 
  []
 
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 35507 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 19.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-19.
-(pdftex.def)             Requested size: 514.75555pt x 249.87248pt.
+<days_L/Lift+bucket/images/17.png, id=123, 608.2725pt x 282.0939pt>
+File: days_L/Lift+bucket/images/17.png Graphic file (type png)
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25 <C:/Robotics/pml30-team/days_L/Lift+bucket/images/02.png> <C:/Robotics/pml
-30-team/days_L/Lift+bucket/images/10.png>] [26]
-<days_L/Lift+bucket/images/01.png, id=134, 1053.4557pt x 601.0455pt>
-File: days_L/Lift+bucket/images/01.png Graphic file (type png)
-
-<use days_L/Lift+bucket/images/01.png>
-Package pdftex.def Info: days_L/Lift+bucket/images/01.png used on input line 27
+<use days_L/Lift+bucket/images/17.png>
+Package pdftex.def Info: days_L/Lift+bucket/images/17.png used on input line 23
 .
-(pdftex.def)             Requested size: 421.37482pt x 240.41393pt.
+(pdftex.def)             Requested size: 425.78786pt x 197.46437pt.
 
-<days_L/Lift+bucket/images/03.png, id=135, 1825.57031pt x 1723.1878pt>
-File: days_L/Lift+bucket/images/03.png Graphic file (type png)
-
-<use days_L/Lift+bucket/images/03.png>
-Package pdftex.def Info: days_L/Lift+bucket/images/03.png used on input line 34
-.
-(pdftex.def)             Requested size: 273.82373pt x 258.46701pt.
-
-<days_L/Lift+bucket/images/06.png, id=136, 423.08063pt x 282.30469pt>
-File: days_L/Lift+bucket/images/06.png Graphic file (type png)
-
-<use days_L/Lift+bucket/images/06.png>
-Package pdftex.def Info: days_L/Lift+bucket/images/06.png used on input line 39
-.
-(pdftex.def)             Requested size: 211.5398pt x 141.152pt.
-
-Overfull \hbox (53.90686pt too wide) in paragraph at lines 33--42
-[]$[]$  $[]$ 
+Overfull \hbox (116.9585pt too wide) in paragraph at lines 23--24
+[][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27 <C:/Robotics/pml30-team/days_L/Lift+bucket/images/01.png>]
-<days_L/Lift+bucket/images/11.png, id=141, 335.75438pt x 298.11375pt>
-File: days_L/Lift+bucket/images/11.png Graphic file (type png)
-
-<use days_L/Lift+bucket/images/11.png>
-Package pdftex.def Info: days_L/Lift+bucket/images/11.png used on input line 48
-.
-(pdftex.def)             Requested size: 302.17615pt x 268.2999pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [28 <C:/Robotics/pml30-team/days_L/Lift+bucket/images/03.png> <C:/Robotics/pml
-30-team/days_L/Lift+bucket/images/06.png>]
-<days_L/Lift+bucket/images/07.png, id=147, 773.13844pt x 421.575pt>
-File: days_L/Lift+bucket/images/07.png Graphic file (type png)
-
-<use days_L/Lift+bucket/images/07.png>
-Package pdftex.def Info: days_L/Lift+bucket/images/07.png used on input line 57
-.
-(pdftex.def)             Requested size: 309.2499pt x 168.627pt.
-
-<days_L/Lift+bucket/images/12.png, id=148, 508.90125pt x 279.29344pt>
-File: days_L/Lift+bucket/images/12.png Graphic file (type png)
-
-<use days_L/Lift+bucket/images/12.png>
-Package pdftex.def Info: days_L/Lift+bucket/images/12.png used on input line 67
-.
-(pdftex.def)             Requested size: 305.34311pt x 167.57735pt.
- [29 <C:/Robotics/pml30-team/days_L/Lift+bucket/images/11.png> <C:/Robotics/pml
-30-team/days_L/Lift+bucket/images/07.png>] <days_L/Lift+bucket/images/09.png, i
-d=154, 827.34094pt x 261.22594pt>
-File: days_L/Lift+bucket/images/09.png Graphic file (type png)
-
-<use days_L/Lift+bucket/images/09.png>
-Package pdftex.def Info: days_L/Lift+bucket/images/09.png used on input line 75
-.
-(pdftex.def)             Requested size: 496.4084pt x 156.73676pt.
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 35507 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 80.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-80.
-(pdftex.def)             Requested size: 514.75555pt x 110.84248pt.
- [30 <C:/Robotics/pml30-team/days_L/Lift+bucket/images/12.png> <C:/Robotics/pml
-30-team/days_L/Lift+bucket/images/09.png>]) (C:\Robotics\pml30-team\days_L/Grip
-per/Gripper.tex
-<days_L/Gripper/images/01.png, id=160, 152.06813pt x 246.1697pt>
-File: days_L/Gripper/images/01.png Graphic file (type png)
-
-<use days_L/Gripper/images/01.png>
-Package pdftex.def Info: days_L/Gripper/images/01.png used on input line 6.
-(pdftex.def)             Requested size: 76.03387pt x 123.08453pt.
-
-Overfull \hbox (3.97475pt too wide) in paragraph at lines 6--6
-[][]| 
- []
-
-<days_L/Gripper/images/02.png, id=161, 135.50626pt x 249.93375pt>
-File: days_L/Gripper/images/02.png Graphic file (type png)
-
-<use days_L/Gripper/images/02.png>
-Package pdftex.def Info: days_L/Gripper/images/02.png used on input line 6.
-(pdftex.def)             Requested size: 67.75294pt x 124.96657pt.
-
-Overfull \hbox (5.99022pt too wide) in paragraph at lines 6--6
-[][]| 
- []
-
-<days_L/Gripper/images/03.png, id=162, 128.73094pt x 239.39438pt>
-File: days_L/Gripper/images/03.png Graphic file (type png)
-
-<use days_L/Gripper/images/03.png>
-Package pdftex.def Info: days_L/Gripper/images/03.png used on input line 6.
-(pdftex.def)             Requested size: 64.3653pt x 119.69688pt.
-
-Overfull \hbox (2.60257pt too wide) in paragraph at lines 6--7
-[][]| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-[]\T2A/cmr/m/n/10.95 Mount for
- []
-
-<days_L/Gripper/images/05.png, id=163, 442.65375pt x 243.15843pt>
-File: days_L/Gripper/images/05.png Graphic file (type png)
-
-<use days_L/Gripper/images/05.png>
-Package pdftex.def Info: days_L/Gripper/images/05.png used on input line 15.
-(pdftex.def)             Requested size: 221.32632pt x 121.57892pt.
-
-<days_L/Gripper/images/06.jpg, id=164, 363.3575pt x 606.265pt>
-File: days_L/Gripper/images/06.jpg Graphic file (type jpg)
-
-<use days_L/Gripper/images/06.jpg>
-Package pdftex.def Info: days_L/Gripper/images/06.jpg used on input line 22.
-(pdftex.def)             Requested size: 181.6783pt x 303.13176pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [31 <C:/Robotics/pml30-team/days_L/Gripper/images/01.png> <C:/Robotics/pml30-t
-eam/days_L/Gripper/images/02.png> <C:/Robotics/pml30-team/days_L/Gripper/images
-/03.png> <C:/Robotics/pml30-team/days_L/Gripper/images/05.png>]
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 35507 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 28.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-28.
-(pdftex.def)             Requested size: 514.75555pt x 292.71422pt.
- [32 <C:/Robotics/pml30-team/days_L/Gripper/images/06.jpg>]) (C:\Robotics\pml30
--team\days_L/F-beam/f-beam.tex
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-
- []
-
-<days_L/f-beam/images/01.png, id=176, 385.44pt x 61.73062pt>
-File: days_L/f-beam/images/01.png Graphic file (type png)
-
-<use days_L/f-beam/images/01.png>
-Package pdftex.def Info: days_L/f-beam/images/01.png used on input line 30.
-(pdftex.def)             Requested size: 269.80615pt x 43.21112pt.
- [33 <C:/Robotics/pml30-team/days_L/f-beam/images/01.png>]
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 35507 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 43.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
- <use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-43.
-(pdftex.def)             Requested size: 514.75555pt x 602.30162pt.
- [34]))
-(C:\Robotics\pml30-team\days_L/Meetings/before_south.tex
-<days_L/Meetings/images/01.jpg, id=184, 341.275pt x 606.265pt>
-File: days_L/Meetings/images/01.jpg Graphic file (type jpg)
-
-<use days_L/Meetings/images/01.jpg>
-Package pdftex.def Info: days_L/Meetings/images/01.jpg used on input line 7.
-(pdftex.def)             Requested size: 170.63707pt x 303.13176pt.
-File: days_L/Gripper/images/05.png Graphic file (type png)
- <use days_L/Gripper/images/05.png>
-Package pdftex.def Info: days_L/Gripper/images/05.png used on input line 14.
-(pdftex.def)             Requested size: 221.32632pt x 121.57892pt.
-
-<days_L/Meetings/images/02.jpg, id=185, 606.265pt x 362.35374pt>
-File: days_L/Meetings/images/02.jpg Graphic file (type jpg)
-
-<use days_L/Meetings/images/02.jpg>
-Package pdftex.def Info: days_L/Meetings/images/02.jpg used on input line 24.
-(pdftex.def)             Requested size: 303.13176pt x 181.17642pt.
- [35 <C:/Robotics/pml30-team/days_L/Meetings/images/01.jpg>]
-<days_L/Meetings/images/03.jpg, id=189, 606.265pt x 362.35374pt>
-File: days_L/Meetings/images/03.jpg Graphic file (type jpg)
-
-<use days_L/Meetings/images/03.jpg>
-Package pdftex.def Info: days_L/Meetings/images/03.jpg used on input line 39.
-(pdftex.def)             Requested size: 303.13176pt x 181.17642pt.
-
-<days_L/Meetings/images/04.jpg, id=190, 363.3575pt x 606.265pt>
-File: days_L/Meetings/images/04.jpg Graphic file (type jpg)
-
-<use days_L/Meetings/images/04.jpg>
-Package pdftex.def Info: days_L/Meetings/images/04.jpg used on input line 45.
-(pdftex.def)             Requested size: 181.6783pt x 303.13176pt.
-
-Underfull \vbox (badness 6125) has occurred while \output is active []
-
- [36 <C:/Robotics/pml30-team/days_L/Meetings/images/02.jpg> <C:/Robotics/pml30-
-team/days_L/Meetings/images/03.jpg>]
-<days_L/Meetings/images/05.jpg, id=194, 606.265pt x 362.35374pt>
-File: days_L/Meetings/images/05.jpg Graphic file (type jpg)
-
-<use days_L/Meetings/images/05.jpg>
-Package pdftex.def Info: days_L/Meetings/images/05.jpg used on input line 56.
-(pdftex.def)             Requested size: 303.13176pt x 181.17642pt.
-
-<days_L/Meetings/images/06.jpg, id=195, 606.265pt x 362.35374pt>
-File: days_L/Meetings/images/06.jpg Graphic file (type jpg)
-
-<use days_L/Meetings/images/06.jpg>
-Package pdftex.def Info: days_L/Meetings/images/06.jpg used on input line 62.
-(pdftex.def)             Requested size: 303.13176pt x 181.17642pt.
-
-Underfull \vbox (badness 2035) has occurred while \output is active []
-
- [37 <C:/Robotics/pml30-team/days_L/Meetings/images/04.jpg> <C:/Robotics/pml30-
-team/days_L/Meetings/images/05.jpg>]
-<days_L/Meetings/images/07.jpg, id=200, 363.3575pt x 606.265pt>
-File: days_L/Meetings/images/07.jpg Graphic file (type jpg)
-
-<use days_L/Meetings/images/07.jpg>
-Package pdftex.def Info: days_L/Meetings/images/07.jpg used on input line 76.
-(pdftex.def)             Requested size: 181.6783pt x 303.13176pt.
- [38 <C:/Robotics/pml30-team/days_L/Meetings/images/06.jpg> <C:/Robotics/pml30-
-team/days_L/Meetings/images/07.jpg>]
-<days_L/Meetings/images/08.jpg, id=204, 606.265pt x 362.35374pt>
-File: days_L/Meetings/images/08.jpg Graphic file (type jpg)
-
-<use days_L/Meetings/images/08.jpg>
-Package pdftex.def Info: days_L/Meetings/images/08.jpg used on input line 110.
-(pdftex.def)             Requested size: 303.13176pt x 181.17642pt.
- [39]
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 35507 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 115.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-115.
-(pdftex.def)             Requested size: 514.75555pt x 460.6856pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [40 <C:/Robotics/pml30-team/days_L/Meetings/images/08.jpg>] [41])
-(C:\Robotics\pml30-team\days_L/Competitions/south.tex [42
-
+ [25 <C:/Robotics/FTC_2016_Engineering_notebook/days_L/Lift+bucket/images/02.pn
+g> <C:/Robotics/FTC_2016_Engineering_notebook/days_L/Lift+bucket/images/10.png>
 ]
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 35507 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 42.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
+<days_L/Lift+bucket/images/13.png, id=130, 251.13824pt x 209.583pt>
+File: days_L/Lift+bucket/images/13.png Graphic file (type png)
 
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-42.
-(pdftex.def)             Requested size: 514.75555pt x 479.80392pt.
- [43])
-(C:\Robotics\pml30-team\days_L/Meetings/south-ryazan.tex
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-[]\T2A/cmr/m/n/10.95 Chain isn't
- []
+<use days_L/Lift+bucket/images/13.png>
+Package pdftex.def Info: days_L/Lift+bucket/images/13.png used on input line 31
+.
+(pdftex.def)             Requested size: 100.4535pt x 83.8317pt.
 
+<days_L/Lift+bucket/images/15.png, id=131, 666.69075pt x 325.215pt>
+File: days_L/Lift+bucket/images/15.png Graphic file (type png)
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--28
-[]\T2A/cmr/m/n/10.95 Bucket don't
- []
+<use days_L/Lift+bucket/images/15.png>
+Package pdftex.def Info: days_L/Lift+bucket/images/15.png used on input line 38
+.
+(pdftex.def)             Requested size: 266.67157pt x 130.0837pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \hbox (badness 1917) in paragraph at lines 30--30
-\T2A/cmr/m/n/10.95 high box from
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--32
-\T2A/cmr/m/n/10.95 motor that
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--45
-[]\T2A/cmr/m/n/10.95 Rotates too
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
-[]\T2A/cmr/m/n/10.95 Climbers
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
-\T2A/cmr/m/n/10.95 sometimes
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
-\T2A/cmr/m/n/10.95 get stuck in
- []
-
-[44
-
-] <days_L/Meetings/images/09.jpg, id=224, 363.3575pt x 606.265pt>
-File: days_L/Meetings/images/09.jpg Graphic file (type jpg)
-
-<use days_L/Meetings/images/09.jpg>
-Package pdftex.def Info: days_L/Meetings/images/09.jpg used on input line 88.
-(pdftex.def)             Requested size: 163.50935pt x 272.81673pt.
-
-<days_L/Meetings/images/10.jpg, id=225, 363.3575pt x 606.265pt>
-File: days_L/Meetings/images/10.jpg Graphic file (type jpg)
-
-<use days_L/Meetings/images/10.jpg>
-Package pdftex.def Info: days_L/Meetings/images/10.jpg used on input line 92.
-(pdftex.def)             Requested size: 181.6783pt x 303.13176pt.
- [45 <C:/Robotics/pml30-team/days_L/Meetings/images/09.jpg> <C:/Robotics/pml30-
-team/days_L/Meetings/images/10.jpg>]
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 35507 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 117.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-117.
-(pdftex.def)             Requested size: 514.75555pt x 502.61943pt.
- [46])
-(C:\Robotics\pml30-team\Simple_robot/4Appendix/5List_of_materials/List_of_mater
-ials_L.tex ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-4.def"
-File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
-)
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 35507 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-10-03 15:02:42
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 12.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-12.
-(pdftex.def)             Requested size: 514.75555pt x 495.4939pt.
- [47])
-(C:\Robotics\pml30-team\key_chapters/Thanks_for_sponsors/Thanks_for_sponsors.te
-x
-<key_chapters/Thanks_for_sponsors/images/01.jpg, id=235, 169.63374pt x 63.23625
-pt>
-File: key_chapters/Thanks_for_sponsors/images/01.jpg Graphic file (type jpg)
- <use key_chapters/Thanks_for_sponsors/images/01.jpg>
-Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/01.jpg used on
- input line 24.
-(pdftex.def)             Requested size: 169.63332pt x 63.23608pt.
-
-<key_chapters/Thanks_for_sponsors/images/02.jpg, id=236, 925.056pt x 367.1316pt
->
-File: key_chapters/Thanks_for_sponsors/images/02.jpg Graphic file (type jpg)
- <use key_chapters/Thanks_for_sponsors/images/02.jpg>
-Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/02.jpg used on
- input line 28.
-(pdftex.def)             Requested size: 185.00792pt x 73.425pt.
-
-<key_chapters/Thanks_for_sponsors/images/03.png, id=237, 37.94176pt x 56.6115pt
->
-File: key_chapters/Thanks_for_sponsors/images/03.png Graphic file (type png)
- <use key_chapters/Thanks_for_sponsors/images/03.png>
-Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/03.png used on
- input line 36.
-(pdftex.def)             Requested size: 113.82495pt x 169.83403pt.
-
-<key_chapters/Thanks_for_sponsors/images/05.jpg, id=238, 382.42876pt x 383.4325
-pt>
-File: key_chapters/Thanks_for_sponsors/images/05.jpg Graphic file (type jpg)
- <use key_chapters/Thanks_for_sponsors/images/05.jpg>
-Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/05.jpg used on
- input line 40.
-(pdftex.def)             Requested size: 133.85207pt x 134.20338pt.
-
-<key_chapters/Thanks_for_sponsors/images/04.jpg, id=239, 102.3825pt x 91.34125p
-t>
-File: key_chapters/Thanks_for_sponsors/images/04.jpg Graphic file (type jpg)
- <use key_chapters/Thanks_for_sponsors/images/04.jpg>
-Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/04.jpg used on
- input line 44.
-(pdftex.def)             Requested size: 102.38225pt x 91.34102pt.
-) [48 <C:/Robotics/pml30-team/key_chapters/Thanks_for_sponsors/images/01.jpg> <
-C:/Robotics/pml30-team/key_chapters/Thanks_for_sponsors/images/02.jpg> <C:/Robo
-tics/pml30-team/key_chapters/Thanks_for_sponsors/images/03.png> <C:/Robotics/pm
-l30-team/key_chapters/Thanks_for_sponsors/images/05.jpg> <C:/Robotics/pml30-tea
-m/key_chapters/Thanks_for_sponsors/images/04.jpg>] (C:\Robotics\pml30-team\tech
-_doc_L.aux
-(C:\Robotics\pml30-team\days_L/Competitions/south.aux)) ) 
-Here is how much of TeX's memory you used:
- 6200 strings out of 493921
- 86996 string characters out of 3144884
- 138278 words of memory out of 3000000
- 9218 multiletter control sequences out of 15000+200000
- 28442 words of font info for 69 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 42i,13n,43p,1185b,715s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\MM\AppData\
-Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0800.pk> <C:\Users\MM\App
-Data\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\laxc1095.pk> <C:\Users\M
-M\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labi1095.pk> <C:\Us
-ers\MM\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <
-C:\Users\MM\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm109
-5.pk> <C:\Users\MM\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecbx1095.pk> <C:\Users\MM\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dp
-i600\lati1095.pk> <C:\Users\MM\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t
-2a\dpi603\labx1095.pk> <C:\Users\MM\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh
-\lh-t2a\dpi600\larm1095.pk> <C:\Users\MM\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
-ur\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\MM\AppData\Local\MiKTeX\2.9\fonts\pk
-\ljfour\lh\lh-t2a\dpi603\larm1095.pk> <C:\Users\MM\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\lh\lh-t2a\dpi837\labx3583.pk> <C:\Users\MM\AppData\Local\MiKTeX\2.
-9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk> <C:\Users\MM\AppData\Local\MiKT
-eX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1728.pk><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on tech_doc_L.pdf (48 pages, 4611866 bytes).
-PDF statistics:
- 846 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 246 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ [26 <C:/Robotics/FTC_2016_Engineering_notebook/days_L/Lift+bucket/images/17.pn
+g
+!pdfTeX error: pdflatex.exe: libpng: internal error
+ ==> Fatal error occurred, no output PDF file produced!

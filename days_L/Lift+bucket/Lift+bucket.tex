@@ -3,8 +3,8 @@
 \begin{itemize}
 \item The lift consists of two beams. One beam is stationar and it is fixed vertically on the back part of the robot. The second beam turns by DC motor that mounted at the top of stationar beam. The length of beams must allow to score debris to the high goal from the middle zone and to middle goal from low zone.
 
-\item For estimating optimal length of beams it was made drawing in GeoGebra.
-\end{itemize}
+\item For estimating optimal length of beams it was made drawing in GeoGebra. It was found that minimal length of moving beam is 41cm.
+
 \begin{figure}[H]
 	\begin{minipage}[h]{0.6\linewidth}
 		{\includegraphics[scale=0.7]{days_L/Lift+bucket/images/02}}
@@ -16,6 +16,30 @@
 		\caption{Model of the lift}
 	\end{minipage}
 \end{figure}
+
+\item Later it was found that reach middle zone of mountain is not easy. So it was decided to remake a moving beam so that it can increase it's length. It was estimated (from the drawing in GeoGebra) that minimal length of moving beam for scoring to high box is 70 cm.
+\begin{figure}[H]
+	\begin{minipage}[h]{0.6\linewidth}
+		{\includegraphics[scale=0.7]{days_L/Lift+bucket/images/17}}
+		\caption{New drawing of the lift}
+	\end{minipage}
+\end{figure}
+
+\item It was decided use two furniture slats for increasing length of turning beam. They fixed to two Tetrix beams as showed in the picture. Also it was looked variant with construction profile that fixed on the side of beams. It fixed rigidly to one beam and second beam slide on it. But in this case we need profile 50cm in length and there is no enough space for it. In addition we tought about lift made of retracktable slats. But if slates fixed to one side from the bucket slats will bend. If slats fixed from both sides from the bucket it will take up much space.
+\begin{figure}[H]
+	\begin{minipage}[h]{\linewidth}
+		\center{\includegraphics[scale=0.4]{days_L/Lift+bucket/images/13}}
+		\caption{Mount for slats}
+	\end{minipage}
+\end{figure} 
+\item For extracting slats it was decided use the next mechanism. The servo fixed on the first Tetrix profile (which doesn't extract). It turn the beam that pivotally connected with other beam that connected with slat (pivotally too). So when servo turn the point of connection the second beam with slat start move horizontally and slat extraxts. 
+\begin{figure}[H]
+	\begin{minipage}[h]{\linewidth}
+		\center{\includegraphics[scale=0.4]{days_L/Lift+bucket/images/15}}
+		\caption{Schematic drawing of the mechanism for extracting slat}
+	\end{minipage}
+\end{figure}
+\end{itemize}
 \fillpage
 
 \subsubsection{Bucket} 
@@ -58,6 +82,7 @@
 		\caption{The bucket with cover}
 	\end{minipage}
 \end{figure}
+\item Later it was found that when cover close so that balls can't get to bucket cubes get to bucket very hard. But it doesn't problem because it very easy to collect only cubes without a special system. We can just don't come to balls too close without problems.
 
 \item During tests it was found that it will be difficult turn to box by the robot. So it was decided make mechanism that turn it to side. 
 
@@ -68,12 +93,28 @@
 		\caption{Mechanism for turning bucket to side}
 	\end{minipage}
 \end{figure}
+\item Later it was decided make this mechanism less complex. At the end of turning beam of the lift was fixed servo (at the center of it) and beam where fixed bucket connected with the servo without gear
+\begin{figure}[H]
+	\begin{minipage}[h]{\linewidth}
+		\center{\includegraphics[scale=0.6]{days_L/Lift+bucket/images/16}}
+		\caption{Optimized mechnism for turning bucket to side}
+	\end{minipage}
+\end{figure}
 
-\item Also they were calculated moments of force that acts to servos. From this calculations they were choosed servo for turning bucket and cover. During the calculation were taken into account mass of construction elements and safety coefficient 1.5 For turning bucket (up and down and to side) it was decided use servo MG995 (torque 11kg*cm) for cover - HS-485HB(torque 5.9 kg*cm).
+\item During tests it was found that we still can't reach the box to side. So it was decided to remake cover. The servo that turn cover was moved as close as possible to it. So when cover open cubes slide on it and fall to box. 
+
+\item Also they were calculated moments of force that acts to servos. From this calculations they were choosed servo for turning bucket and cover. During the calculation were taken into account mass of construction elements and safety coefficient 1.5 For turning bucket (up and down and to side) it was decided use servo MG996R (torque 11kg*cm) for cover - HS-485HB(torque 5.9 kg*cm).
 \begin{figure}[H]
 	\begin{minipage}[h]{\linewidth}
 		\center{\includegraphics[scale=0.6]{days_L/Lift+bucket/images/09}}
-		\caption{The table of moments}
+		\caption{The table of moments for servos}
+	\end{minipage}
+\end{figure}
+\item In addition it was calculated moment of force that acts to DC motor that turn lift. So it was decided to install transmission with gear ratio 6:1.
+\begin{figure}[H]
+	\begin{minipage}[h]{\linewidth}
+		\center{\includegraphics[scale=0.6]{days_L/Lift+bucket/images/14}}
+		\caption{The table of moments for DC motor}
 	\end{minipage}
 \end{figure}
 \end{itemize}

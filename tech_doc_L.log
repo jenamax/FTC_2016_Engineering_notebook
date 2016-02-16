@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.1.30)  31 JAN 2016 23:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.1.30)  16 FEB 2016 23:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -459,7 +459,7 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 10.
-(pdftex.def)             Requested size: 514.75555pt x 188.95467pt.
+(pdftex.def)             Requested size: 514.75555pt x 202.55678pt.
 
 Overfull \hbox (16.67882pt too wide) in paragraph at lines 9--10
 []\T2A/cmr/m/n/10.95 [H] [] 
@@ -507,7 +507,7 @@ Package pdftex.def Info: key_chapters/Team/images/05.jpg used on input line 39.
 File: key_chapters/Team/images/06.jpg Graphic file (type jpg)
 
 <use key_chapters/Team/images/06.jpg>
-Package pdftex.def Info: key_chapters/Team/images/06.jpg used on input line 49.
+Package pdftex.def Info: key_chapters/Team/images/06.jpg used on input line 55.
 
 (pdftex.def)             Requested size: 171.95244pt x 229.57108pt.
 
@@ -624,7 +624,7 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 67.
-(pdftex.def)             Requested size: 514.75555pt x 403.52065pt.
+(pdftex.def)             Requested size: 514.75555pt x 378.98112pt.
  [9] (./sessions_L/Brainstorming.tex
 Underfull \hbox (badness 6001) in paragraph at lines 25--25
 \T2A/cmr/m/n/10.95 up require high moment on motors.
@@ -974,6 +974,18 @@ File: days_L/Lift+bucket/images/15.PNG Graphic file (type png)
 Package pdftex.def Info: days_L/Lift+bucket/images/15.PNG used on input line 38
 .
 (pdftex.def)             Requested size: 266.67157pt x 130.0837pt.
+
+<days_L/Lift+bucket/images/21.jpg, id=134, 606.265pt x 454.69875pt>
+File: days_L/Lift+bucket/images/21.jpg Graphic file (type jpg)
+
+<use days_L/Lift+bucket/images/21.jpg>
+Package pdftex.def Info: days_L/Lift+bucket/images/21.jpg used on input line 48
+.
+(pdftex.def)             Requested size: 242.5017pt x 181.87627pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27 <./days_L/Lift+bucket/images/13.PNG> <./days_L/Lift+bucket/images/15.PNG>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2016-01-30 12:19:20
 (epstopdf)                    size: 34976 bytes
@@ -982,101 +994,115 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
 d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 45.
+(epstopdf)             \includegraphics on input line 53.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-45.
-(pdftex.def)             Requested size: 514.75555pt x 200.85898pt.
- [27 <./days_L/Lift+bucket/images/13.PNG> <./days_L/Lift+bucket/images/15.PNG>]
+53.
+(pdftex.def)             Requested size: 514.75555pt x 459.98746pt.
 
-<days_L/Lift+bucket/images/01.png, id=139, 1053.4557pt x 601.0455pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28 <./days_L/Lift+bucket/images/21.jpg>] [29]
+<days_L/Lift+bucket/images/01.png, id=146, 1053.4557pt x 601.0455pt>
 File: days_L/Lift+bucket/images/01.png Graphic file (type png)
 
 <use days_L/Lift+bucket/images/01.png>
-Package pdftex.def Info: days_L/Lift+bucket/images/01.png used on input line 53
+Package pdftex.def Info: days_L/Lift+bucket/images/01.png used on input line 61
 .
 (pdftex.def)             Requested size: 421.37482pt x 240.41393pt.
 
-<days_L/Lift+bucket/images/03.png, id=140, 1825.57031pt x 1723.1878pt>
+<days_L/Lift+bucket/images/03.png, id=147, 1825.57031pt x 1723.1878pt>
 File: days_L/Lift+bucket/images/03.png Graphic file (type png)
 
 <use days_L/Lift+bucket/images/03.png>
-Package pdftex.def Info: days_L/Lift+bucket/images/03.png used on input line 60
+Package pdftex.def Info: days_L/Lift+bucket/images/03.png used on input line 68
 .
 (pdftex.def)             Requested size: 273.82373pt x 258.46701pt.
 
-<days_L/Lift+bucket/images/06.png, id=141, 423.08063pt x 282.30469pt>
+<days_L/Lift+bucket/images/06.png, id=148, 423.08063pt x 282.30469pt>
 File: days_L/Lift+bucket/images/06.png Graphic file (type png)
 
 <use days_L/Lift+bucket/images/06.png>
-Package pdftex.def Info: days_L/Lift+bucket/images/06.png used on input line 65
+Package pdftex.def Info: days_L/Lift+bucket/images/06.png used on input line 73
 .
 (pdftex.def)             Requested size: 211.5398pt x 141.152pt.
 
-Overfull \hbox (53.90686pt too wide) in paragraph at lines 59--68
+Overfull \hbox (53.90686pt too wide) in paragraph at lines 67--76
 []$[]$  $[]$ 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28 <./days_L/Lift+bucket/images/01.png>]
-<days_L/Lift+bucket/images/11.PNG, id=146, 335.75438pt x 298.11375pt>
+ [30 <./days_L/Lift+bucket/images/01.png>]
+<days_L/Lift+bucket/images/11.PNG, id=153, 335.75438pt x 298.11375pt>
 File: days_L/Lift+bucket/images/11.PNG Graphic file (type png)
 
 <use days_L/Lift+bucket/images/11.PNG>
-Package pdftex.def Info: days_L/Lift+bucket/images/11.PNG used on input line 74
+Package pdftex.def Info: days_L/Lift+bucket/images/11.PNG used on input line 82
 .
 (pdftex.def)             Requested size: 302.17615pt x 268.2999pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29 <./days_L/Lift+bucket/images/03.png> <./days_L/Lift+bucket/images/06.png>]
+ [31 <./days_L/Lift+bucket/images/03.png> <./days_L/Lift+bucket/images/06.png>]
 
-<days_L/Lift+bucket/images/07.png, id=152, 773.13844pt x 421.575pt>
+<days_L/Lift+bucket/images/22.jpg, id=160, 606.265pt x 454.69875pt>
+File: days_L/Lift+bucket/images/22.jpg Graphic file (type jpg)
+
+<use days_L/Lift+bucket/images/22.jpg>
+Package pdftex.def Info: days_L/Lift+bucket/images/22.jpg used on input line 90
+.
+(pdftex.def)             Requested size: 363.76181pt x 272.82135pt.
+ [32 <./days_L/Lift+bucket/images/11.PNG> <./days_L/Lift+bucket/images/22.jpg>]
+
+<days_L/Lift+bucket/images/07.png, id=165, 773.13844pt x 421.575pt>
 File: days_L/Lift+bucket/images/07.png Graphic file (type png)
 
 <use days_L/Lift+bucket/images/07.png>
-Package pdftex.def Info: days_L/Lift+bucket/images/07.png used on input line 83
+Package pdftex.def Info: days_L/Lift+bucket/images/07.png used on input line 99
 .
 (pdftex.def)             Requested size: 309.2499pt x 168.627pt.
- [30 <./days_L/Lift+bucket/images/11.PNG> <./days_L/Lift+bucket/images/07.png>]
 
-<days_L/Lift+bucket/images/12.PNG, id=158, 508.90125pt x 279.29344pt>
+<days_L/Lift+bucket/images/12.PNG, id=166, 508.90125pt x 279.29344pt>
 File: days_L/Lift+bucket/images/12.PNG Graphic file (type png)
 
 <use days_L/Lift+bucket/images/12.PNG>
-Package pdftex.def Info: days_L/Lift+bucket/images/12.PNG used on input line 94
-.
+Package pdftex.def Info: days_L/Lift+bucket/images/12.PNG used on input line 11
+0.
 (pdftex.def)             Requested size: 305.34311pt x 167.57735pt.
 
-<days_L/Lift+bucket/images/16.PNG, id=159, 293.898pt x 252.34274pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33 <./days_L/Lift+bucket/images/07.png>]
+<days_L/Lift+bucket/images/16.PNG, id=171, 293.898pt x 252.34274pt>
 File: days_L/Lift+bucket/images/16.PNG Graphic file (type png)
 
 <use days_L/Lift+bucket/images/16.PNG>
-Package pdftex.def Info: days_L/Lift+bucket/images/16.PNG used on input line 10
-1.
+Package pdftex.def Info: days_L/Lift+bucket/images/16.PNG used on input line 11
+7.
 (pdftex.def)             Requested size: 176.34015pt x 151.4068pt.
 
-<days_L/Lift+bucket/images/09.png, id=160, 776.9025pt x 130.086pt>
+<days_L/Lift+bucket/images/09.png, id=172, 776.9025pt x 130.086pt>
 File: days_L/Lift+bucket/images/09.png Graphic file (type png)
 
 <use days_L/Lift+bucket/images/09.png>
-Package pdftex.def Info: days_L/Lift+bucket/images/09.png used on input line 11
-1.
+Package pdftex.def Info: days_L/Lift+bucket/images/09.png used on input line 12
+7.
 (pdftex.def)             Requested size: 466.14508pt x 78.05219pt.
- [31 <./days_L/Lift+bucket/images/12.PNG> <./days_L/Lift+bucket/images/16.PNG>]
 
-<days_L/Lift+bucket/images/14.PNG, id=167, 658.25925pt x 86.724pt>
+<days_L/Lift+bucket/images/14.PNG, id=173, 658.25925pt x 86.724pt>
 File: days_L/Lift+bucket/images/14.PNG Graphic file (type png)
 
 <use days_L/Lift+bucket/images/14.PNG>
-Package pdftex.def Info: days_L/Lift+bucket/images/14.PNG used on input line 11
-8.
+Package pdftex.def Info: days_L/Lift+bucket/images/14.PNG used on input line 13
+4.
 (pdftex.def)             Requested size: 394.9586pt x 52.03479pt.
+ [34 <./days_L/Lift+bucket/images/12.PNG> <./days_L/Lift+bucket/images/16.PNG> 
+<./days_L/Lift+bucket/images/09.png>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2016-01-30 12:19:20
 (epstopdf)                    size: 34976 bytes
@@ -1085,17 +1111,19 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
 d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 139.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-123.
-(pdftex.def)             Requested size: 514.75555pt x 388.84348pt.
- [32 <./days_L/Lift+bucket/images/09.png> <./days_L/Lift+bucket/images/14.PNG>]
-) (./days_L/Gripper/Gripper.tex
-<days_L/Gripper/images/01.PNG, id=173, 152.06813pt x 246.1697pt>
+139.
+(pdftex.def)             Requested size: 514.75555pt x 552.32779pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35 <./days_L/Lift+bucket/images/14.PNG>] [36]) (./days_L/Gripper/Gripper.tex
+<days_L/Gripper/images/01.PNG, id=187, 152.06813pt x 246.1697pt>
 File: days_L/Gripper/images/01.PNG Graphic file (type png)
 
 <use days_L/Gripper/images/01.PNG>
@@ -1106,7 +1134,7 @@ Overfull \hbox (3.97475pt too wide) in paragraph at lines 6--6
 [][]| 
  []
 
-<days_L/Gripper/images/02.PNG, id=174, 135.50626pt x 249.93375pt>
+<days_L/Gripper/images/02.PNG, id=188, 135.50626pt x 249.93375pt>
 File: days_L/Gripper/images/02.PNG Graphic file (type png)
 
 <use days_L/Gripper/images/02.PNG>
@@ -1117,7 +1145,7 @@ Overfull \hbox (5.99022pt too wide) in paragraph at lines 6--6
 [][]| 
  []
 
-<days_L/Gripper/images/03.PNG, id=175, 128.73094pt x 239.39438pt>
+<days_L/Gripper/images/03.PNG, id=189, 128.73094pt x 239.39438pt>
 File: days_L/Gripper/images/03.PNG Graphic file (type png)
 
 <use days_L/Gripper/images/03.PNG>
@@ -1133,43 +1161,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--7
 []\T2A/cmr/m/n/10.95 Mount for
  []
 
-<days_L/Gripper/images/04.PNG, id=176, 137.7647pt x 152.82094pt>
+<days_L/Gripper/images/04.PNG, id=190, 137.7647pt x 152.82094pt>
 File: days_L/Gripper/images/04.PNG Graphic file (type png)
 
 <use days_L/Gripper/images/04.PNG>
 Package pdftex.def Info: days_L/Gripper/images/04.PNG used on input line 13.
 (pdftex.def)             Requested size: 68.88217pt x 76.41026pt.
 
-<days_L/Gripper/images/05.PNG, id=177, 442.65375pt x 243.15843pt>
+<days_L/Gripper/images/05.PNG, id=191, 442.65375pt x 243.15843pt>
 File: days_L/Gripper/images/05.PNG Graphic file (type png)
 
 <use days_L/Gripper/images/05.PNG>
 Package pdftex.def Info: days_L/Gripper/images/05.PNG used on input line 21.
 (pdftex.def)             Requested size: 221.32632pt x 121.57892pt.
 
-<days_L/Gripper/images/06.jpg, id=178, 363.3575pt x 606.265pt>
+<days_L/Gripper/images/06.jpg, id=192, 363.3575pt x 606.265pt>
 File: days_L/Gripper/images/06.jpg Graphic file (type jpg)
 
 <use days_L/Gripper/images/06.jpg>
 Package pdftex.def Info: days_L/Gripper/images/06.jpg used on input line 28.
 (pdftex.def)             Requested size: 181.6783pt x 303.13176pt.
- [33 <./days_L/Gripper/images/01.PNG> <./days_L/Gripper/images/02.PNG> <./days_
+ [37 <./days_L/Gripper/images/01.PNG> <./days_L/Gripper/images/02.PNG> <./days_
 L/Gripper/images/03.PNG> <./days_L/Gripper/images/04.PNG> <./days_L/Gripper/ima
 ges/05.PNG>]
-<days_L/Gripper/images/07.jpg, id=187, 606.265pt x 454.69875pt>
+<days_L/Gripper/images/07.jpg, id=202, 606.265pt x 454.69875pt>
 File: days_L/Gripper/images/07.jpg Graphic file (type jpg)
 
 <use days_L/Gripper/images/07.jpg>
 Package pdftex.def Info: days_L/Gripper/images/07.jpg used on input line 35.
 (pdftex.def)             Requested size: 303.13176pt x 227.34882pt.
 
-<days_L/Gripper/images/08.jpg, id=188, 606.265pt x 454.69875pt>
+<days_L/Gripper/images/08.jpg, id=203, 606.265pt x 454.69875pt>
 File: days_L/Gripper/images/08.jpg Graphic file (type jpg)
 
 <use days_L/Gripper/images/08.jpg>
 Package pdftex.def Info: days_L/Gripper/images/08.jpg used on input line 42.
 (pdftex.def)             Requested size: 303.13176pt x 227.34882pt.
- [34 <./days_L/Gripper/images/06.jpg> <./days_L/Gripper/images/07.jpg>]
+ [38 <./days_L/Gripper/images/06.jpg> <./days_L/Gripper/images/07.jpg>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2016-01-30 12:19:20
 (epstopdf)                    size: 34976 bytes
@@ -1185,14 +1213,14 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 47.
 (pdftex.def)             Requested size: 514.75555pt x 362.77658pt.
- [35 <./days_L/Gripper/images/08.jpg>]) (./days_L/F-beam/f-beam.tex
-<days_L/F-beam/images/01.jpg, id=195, 606.265pt x 454.69875pt>
+ [39 <./days_L/Gripper/images/08.jpg>]) (./days_L/F-beam/f-beam.tex
+<days_L/F-beam/images/01.jpg, id=210, 606.265pt x 454.69875pt>
 File: days_L/F-beam/images/01.jpg Graphic file (type jpg)
 
 <use days_L/F-beam/images/01.jpg>
 Package pdftex.def Info: days_L/F-beam/images/01.jpg used on input line 13.
 (pdftex.def)             Requested size: 303.13176pt x 227.34882pt.
- [36 <./days_L/F-beam/images/01.jpg>]
+ [40 <./days_L/F-beam/images/01.jpg>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2016-01-30 12:19:20
 (epstopdf)                    size: 34976 bytes
@@ -1209,9 +1237,9 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 49.
 (pdftex.def)             Requested size: 514.75555pt x 437.28012pt.
- [37]))
+ [41]))
 (./days_L/Meetings/before_south.tex
-<days_L/Meetings/images/01.jpg, id=203, 341.275pt x 606.265pt>
+<days_L/Meetings/images/01.jpg, id=217, 341.275pt x 606.265pt>
 File: days_L/Meetings/images/01.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/01.jpg>
@@ -1222,21 +1250,21 @@ File: days_L/Gripper/images/05.PNG Graphic file (type png)
 Package pdftex.def Info: days_L/Gripper/images/05.PNG used on input line 14.
 (pdftex.def)             Requested size: 221.32632pt x 121.57892pt.
 
-<days_L/Meetings/images/02.jpg, id=204, 606.265pt x 362.35374pt>
+<days_L/Meetings/images/02.jpg, id=218, 606.265pt x 362.35374pt>
 File: days_L/Meetings/images/02.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/02.jpg>
 Package pdftex.def Info: days_L/Meetings/images/02.jpg used on input line 24.
 (pdftex.def)             Requested size: 303.13176pt x 181.17642pt.
- [38 <./days_L/Meetings/images/01.jpg>]
-<days_L/Meetings/images/03.jpg, id=208, 606.265pt x 362.35374pt>
+ [42 <./days_L/Meetings/images/01.jpg>]
+<days_L/Meetings/images/03.jpg, id=222, 606.265pt x 362.35374pt>
 File: days_L/Meetings/images/03.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/03.jpg>
 Package pdftex.def Info: days_L/Meetings/images/03.jpg used on input line 39.
 (pdftex.def)             Requested size: 303.13176pt x 181.17642pt.
 
-<days_L/Meetings/images/04.jpg, id=209, 363.3575pt x 606.265pt>
+<days_L/Meetings/images/04.jpg, id=223, 363.3575pt x 606.265pt>
 File: days_L/Meetings/images/04.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/04.jpg>
@@ -1245,15 +1273,15 @@ Package pdftex.def Info: days_L/Meetings/images/04.jpg used on input line 45.
 
 Underfull \vbox (badness 6125) has occurred while \output is active []
 
- [39 <./days_L/Meetings/images/02.jpg> <./days_L/Meetings/images/03.jpg>]
-<days_L/Meetings/images/05.jpg, id=213, 606.265pt x 362.35374pt>
+ [43 <./days_L/Meetings/images/02.jpg> <./days_L/Meetings/images/03.jpg>]
+<days_L/Meetings/images/05.jpg, id=228, 606.265pt x 362.35374pt>
 File: days_L/Meetings/images/05.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/05.jpg>
 Package pdftex.def Info: days_L/Meetings/images/05.jpg used on input line 56.
 (pdftex.def)             Requested size: 303.13176pt x 181.17642pt.
 
-<days_L/Meetings/images/06.jpg, id=214, 606.265pt x 362.35374pt>
+<days_L/Meetings/images/06.jpg, id=229, 606.265pt x 362.35374pt>
 File: days_L/Meetings/images/06.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/06.jpg>
@@ -1262,21 +1290,21 @@ Package pdftex.def Info: days_L/Meetings/images/06.jpg used on input line 62.
 
 Underfull \vbox (badness 2035) has occurred while \output is active []
 
- [40 <./days_L/Meetings/images/04.jpg> <./days_L/Meetings/images/05.jpg>]
-<days_L/Meetings/images/07.jpg, id=218, 363.3575pt x 606.265pt>
+ [44 <./days_L/Meetings/images/04.jpg> <./days_L/Meetings/images/05.jpg>]
+<days_L/Meetings/images/07.jpg, id=233, 363.3575pt x 606.265pt>
 File: days_L/Meetings/images/07.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/07.jpg>
 Package pdftex.def Info: days_L/Meetings/images/07.jpg used on input line 76.
 (pdftex.def)             Requested size: 181.6783pt x 303.13176pt.
- [41 <./days_L/Meetings/images/06.jpg> <./days_L/Meetings/images/07.jpg>]
-<days_L/Meetings/images/08.jpg, id=222, 606.265pt x 362.35374pt>
+ [45 <./days_L/Meetings/images/06.jpg> <./days_L/Meetings/images/07.jpg>]
+<days_L/Meetings/images/08.jpg, id=237, 606.265pt x 362.35374pt>
 File: days_L/Meetings/images/08.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/08.jpg>
 Package pdftex.def Info: days_L/Meetings/images/08.jpg used on input line 110.
 (pdftex.def)             Requested size: 303.13176pt x 181.17642pt.
- [42]
+ [46]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2016-01-30 12:19:20
 (epstopdf)                    size: 34976 bytes
@@ -1296,8 +1324,8 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43 <./days_L/Meetings/images/08.jpg>] [44]) (./days_L/Competitions/south.tex 
-[45]
+ [47 <./days_L/Meetings/images/08.jpg>] [48]) (./days_L/Competitions/south.tex 
+[49]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2016-01-30 12:19:20
 (epstopdf)                    size: 34976 bytes
@@ -1314,7 +1342,7 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 42.
 (pdftex.def)             Requested size: 514.75555pt x 479.80392pt.
- [46])
+ [50])
 (./days_L/Meetings/south-ryazan.tex
 Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []\T2A/cmr/m/n/10.95 Chain isn't
@@ -1355,20 +1383,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 \T2A/cmr/m/n/10.95 get stuck in
  []
 
-[47] <days_L/Meetings/images/09.jpg, id=242, 363.3575pt x 606.265pt>
+[51] <days_L/Meetings/images/09.jpg, id=258, 363.3575pt x 606.265pt>
 File: days_L/Meetings/images/09.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/09.jpg>
 Package pdftex.def Info: days_L/Meetings/images/09.jpg used on input line 88.
 (pdftex.def)             Requested size: 163.50935pt x 272.81673pt.
 
-<days_L/Meetings/images/10.jpg, id=243, 363.3575pt x 606.265pt>
+<days_L/Meetings/images/10.jpg, id=259, 363.3575pt x 606.265pt>
 File: days_L/Meetings/images/10.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/10.jpg>
 Package pdftex.def Info: days_L/Meetings/images/10.jpg used on input line 92.
 (pdftex.def)             Requested size: 181.6783pt x 303.13176pt.
- [48 <./days_L/Meetings/images/09.jpg> <./days_L/Meetings/images/10.jpg>]
+ [52 <./days_L/Meetings/images/09.jpg> <./days_L/Meetings/images/10.jpg>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2016-01-30 12:19:20
 (epstopdf)                    size: 34976 bytes
@@ -1384,7 +1412,7 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 117.
 (pdftex.def)             Requested size: 514.75555pt x 502.61943pt.
- [49])
+ [53])
 (./days_L/Competitions/ryazan.tex
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2016-01-30 12:19:20
@@ -1402,7 +1430,7 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 32.
 (pdftex.def)             Requested size: 514.75555pt x 190.45581pt.
 
-[50]) (./days_L/Meetings/ryazan-spb.tex
+[54]) (./days_L/Meetings/ryazan-spb.tex
 Underfull \hbox (badness 10000) in paragraph at lines 28--28
 []\T2A/cmr/m/n/10.95 Bucket can't
  []
@@ -1427,7 +1455,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--64
 []\T2A/cmr/m/n/10.95 There is no
  []
 
-[51] <days_L/Meetings/images/11.jpg, id=258, 363.3575pt x 606.265pt>
+[55] <days_L/Meetings/images/11.jpg, id=273, 363.3575pt x 606.265pt>
 File: days_L/Meetings/images/11.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/11.jpg>
@@ -1436,7 +1464,7 @@ Package pdftex.def Info: days_L/Meetings/images/11.jpg used on input line 105.
 
 Underfull \vbox (badness 3954) has occurred while \output is active []
 
- [52]
+ [56]
 Underfull \hbox (badness 10000) in paragraph at lines 120--121
 []\T2A/cmr/m/n/10.95 To make
  []
@@ -1491,15 +1519,15 @@ Underfull \hbox (badness 1917) in paragraph at lines 133--133
 \T2A/cmr/m/n/10.95 high box from
  []
 
-[53 <./days_L/Meetings/images/11.jpg>]
-<days_L/Meetings/images/14.jpg, id=265, 363.3575pt x 606.265pt>
+[57 <./days_L/Meetings/images/11.jpg>]
+<days_L/Meetings/images/14.jpg, id=280, 363.3575pt x 606.265pt>
 File: days_L/Meetings/images/14.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/14.jpg>
 Package pdftex.def Info: days_L/Meetings/images/14.jpg used on input line 159.
 (pdftex.def)             Requested size: 181.6783pt x 303.13176pt.
 
-<days_L/Meetings/images/15.jpg, id=266, 363.3575pt x 606.265pt>
+<days_L/Meetings/images/15.jpg, id=281, 363.3575pt x 606.265pt>
 File: days_L/Meetings/images/15.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/15.jpg>
@@ -1508,17 +1536,17 @@ Package pdftex.def Info: days_L/Meetings/images/15.jpg used on input line 164.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [54]
+ [58]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [55 <./days_L/Meetings/images/14.jpg> <./days_L/Meetings/images/15.jpg>]
+ [59 <./days_L/Meetings/images/14.jpg> <./days_L/Meetings/images/15.jpg>]
 File: days_L/Meetings/images/13.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/13.jpg>
 Package pdftex.def Info: days_L/Meetings/images/13.jpg used on input line 176.
 (pdftex.def)             Requested size: 303.13176pt x 181.17642pt.
 
-<days_L/Meetings/images/12.jpg, id=274, 363.3575pt x 606.265pt>
+<days_L/Meetings/images/12.jpg, id=288, 363.3575pt x 606.265pt>
 File: days_L/Meetings/images/12.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/12.jpg>
@@ -1527,7 +1555,7 @@ Package pdftex.def Info: days_L/Meetings/images/12.jpg used on input line 188.
 
 Underfull \vbox (badness 6842) has occurred while \output is active []
 
- [56]
+ [60]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2016-01-30 12:19:20
 (epstopdf)                    size: 34976 bytes
@@ -1544,7 +1572,7 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 198.
 (pdftex.def)             Requested size: 514.75555pt x 173.65147pt.
- [57 <./days_L/Meetings/images/12.jpg>]) (./days_L/Competitions/spb.tex
+ [61 <./days_L/Meetings/images/12.jpg>]) (./days_L/Competitions/spb.tex
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2016-01-30 12:19:20
 (epstopdf)                    size: 34976 bytes
@@ -1563,8 +1591,8 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58]
-[59]) (./days_L/Meetings/spb-sochi.tex
+ [62]
+[63]) (./days_L/Meetings/spb-sochi.tex
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 []\T2A/cmr/m/n/10.95 Cudes gets
  []
@@ -1609,20 +1637,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--29
 []\T2A/cmr/m/n/10.95 MIL isn't
  []
 
-<days_L/Meetings/images/17.jpg, id=287, 606.265pt x 362.35374pt>
+<days_L/Meetings/images/17.jpg, id=302, 606.265pt x 362.35374pt>
 File: days_L/Meetings/images/17.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/17.jpg>
 Package pdftex.def Info: days_L/Meetings/images/17.jpg used on input line 52.
 (pdftex.def)             Requested size: 303.13176pt x 181.17642pt.
- [60]
-<days_L/Meetings/images/16.jpg, id=291, 363.3575pt x 606.265pt>
+ [64]
+<days_L/Meetings/images/16.jpg, id=306, 363.3575pt x 606.265pt>
 File: days_L/Meetings/images/16.jpg Graphic file (type jpg)
 
 <use days_L/Meetings/images/16.jpg>
 Package pdftex.def Info: days_L/Meetings/images/16.jpg used on input line 64.
 (pdftex.def)             Requested size: 181.6783pt x 303.13176pt.
- [61 <./days_L/Meetings/images/17.jpg> <./days_L/Meetings/images/16.jpg>]
+ [65 <./days_L/Meetings/images/17.jpg> <./days_L/Meetings/images/16.jpg>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2016-01-30 12:19:20
 (epstopdf)                    size: 34976 bytes
@@ -1638,7 +1666,7 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 75.
 (pdftex.def)             Requested size: 514.75555pt x 552.43266pt.
- [62])
+ [66])
 (./Simple_robot/4Appendix/5List_of_materials/List_of_materials_L.tex
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
@@ -1659,9 +1687,26 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 12.
 (pdftex.def)             Requested size: 514.75555pt x 495.4939pt.
- [63])
+ [67]) (./days_L/bussines_plan.tex
+[68]
+Package epstopdf Info: Source file: <img/fill_page.eps>
+(epstopdf)                    date: 2016-01-30 12:19:20
+(epstopdf)                    size: 34976 bytes
+(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-30 12:19:20
+(epstopdf)                    size: 2504 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
+(epstopdf)             \includegraphics on input line 77.
+Package epstopdf Info: Output file is already uptodate.
+File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
+ <use img/fill_page-eps-converted-to.pdf>
+Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
+77.
+(pdftex.def)             Requested size: 514.75555pt x 572.96695pt.
+ [69])
 (./key_chapters/Thanks_for_sponsors/Thanks_for_sponsors.tex
-<key_chapters/Thanks_for_sponsors/images/01.jpg, id=302, 169.63374pt x 63.23625
+<key_chapters/Thanks_for_sponsors/images/01.jpg, id=323, 169.63374pt x 63.23625
 pt>
 File: key_chapters/Thanks_for_sponsors/images/01.jpg Graphic file (type jpg)
  <use key_chapters/Thanks_for_sponsors/images/01.jpg>
@@ -1669,7 +1714,7 @@ Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/01.jpg used on
  input line 24.
 (pdftex.def)             Requested size: 169.63332pt x 63.23608pt.
 
-<key_chapters/Thanks_for_sponsors/images/02.jpg, id=303, 925.056pt x 367.1316pt
+<key_chapters/Thanks_for_sponsors/images/02.jpg, id=324, 925.056pt x 367.1316pt
 >
 File: key_chapters/Thanks_for_sponsors/images/02.jpg Graphic file (type jpg)
  <use key_chapters/Thanks_for_sponsors/images/02.jpg>
@@ -1677,7 +1722,7 @@ Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/02.jpg used on
  input line 28.
 (pdftex.def)             Requested size: 185.00792pt x 73.425pt.
 
-<key_chapters/Thanks_for_sponsors/images/03.png, id=304, 37.94176pt x 56.6115pt
+<key_chapters/Thanks_for_sponsors/images/03.png, id=325, 37.94176pt x 56.6115pt
 >
 File: key_chapters/Thanks_for_sponsors/images/03.png Graphic file (type png)
  <use key_chapters/Thanks_for_sponsors/images/03.png>
@@ -1685,7 +1730,7 @@ Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/03.png used on
  input line 36.
 (pdftex.def)             Requested size: 113.82495pt x 169.83403pt.
 
-<key_chapters/Thanks_for_sponsors/images/05.jpg, id=305, 382.42876pt x 383.4325
+<key_chapters/Thanks_for_sponsors/images/05.jpg, id=326, 382.42876pt x 383.4325
 pt>
 File: key_chapters/Thanks_for_sponsors/images/05.jpg Graphic file (type jpg)
  <use key_chapters/Thanks_for_sponsors/images/05.jpg>
@@ -1693,22 +1738,22 @@ Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/05.jpg used on
  input line 40.
 (pdftex.def)             Requested size: 133.85207pt x 134.20338pt.
 
-<key_chapters/Thanks_for_sponsors/images/04.jpg, id=306, 102.3825pt x 91.34125p
+<key_chapters/Thanks_for_sponsors/images/04.jpg, id=327, 102.3825pt x 91.34125p
 t>
 File: key_chapters/Thanks_for_sponsors/images/04.jpg Graphic file (type jpg)
  <use key_chapters/Thanks_for_sponsors/images/04.jpg>
 Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/04.jpg used on
  input line 44.
 (pdftex.def)             Requested size: 102.38225pt x 91.34102pt.
-) [64 <./key_chapters/Thanks_for_sponsors/images/01.jpg> <./key_chapters/Thanks
+) [70 <./key_chapters/Thanks_for_sponsors/images/01.jpg> <./key_chapters/Thanks
 _for_sponsors/images/02.jpg> <./key_chapters/Thanks_for_sponsors/images/03.png>
  <./key_chapters/Thanks_for_sponsors/images/05.jpg> <./key_chapters/Thanks_for_
 sponsors/images/04.jpg>] (./tech_doc_L.aux) ) 
 Here is how much of TeX's memory you used:
- 6607 strings out of 493085
- 91260 string characters out of 6136917
- 149660 words of memory out of 5000000
- 9819 multiletter control sequences out of 15000+600000
+ 6622 strings out of 493085
+ 91651 string characters out of 6136917
+ 149551 words of memory out of 5000000
+ 9828 multiletter control sequences out of 15000+600000
  27659 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,13n,43p,1185b,715s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1728,10 +1773,10 @@ pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texm
 f/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fonts/type1/public
 /cm-super/sfti1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfxc1095.p
 fb>
-Output written on tech_doc_L.pdf (64 pages, 5391426 bytes).
+Output written on tech_doc_L.pdf (70 pages, 5550475 bytes).
 PDF statistics:
- 368 PDF objects out of 1000 (max. 8388607)
- 198 compressed objects within 2 object streams
+ 390 PDF objects out of 1000 (max. 8388607)
+ 211 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 311 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 321 words of extra memory for PDF output out of 10000 (max. 10000000)
 

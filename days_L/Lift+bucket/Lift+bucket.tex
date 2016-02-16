@@ -40,7 +40,15 @@
 	\end{minipage}
 \end{figure}
 
-\item It was calculated moment of force of servo that exract lift. We calculated it as multiplication of weight of extracting part (bucket, debris, half of slats, Tetrix beam and servos that turn bucket) and length of beam that mounted to servo. We got the result 14.25 kg*cm (weight of construction 950g length of beam 15cm). So it was decided use servo with moment 18.5 kg*cm.
+\item It was calculated moment of force of servo that exract lift. We calculated it as multiplication of weight of extracting part (bucket, debris, half of slats, Tetrix beam and servos that turn bucket) and length of beam that mounted to servo. We got the result 14.25 kg*cm (weight of construction 950g length of beam 15cm). So it was decided use servo with moment 18.5 kg*cm. But this calculations are wrong because we didn't take in account that beam that fixed on the servo push the second beam at the something angle (that < 90 degrees). So part of force is lost.
+
+\item It was decided to make mechanism for extracting lift with blocks and rope that mounted on the reel that rotate by servo of continuous rotation. It was decided to install two spools and two ropes so that one rope rise the lift and second - lower it. This mechanism provide holding of the lift position.
+\begin{figure}[H]
+	\begin{minipage}[h]{\linewidth}
+		\center{\includegraphics[scale=0.4]{days_L/Lift+bucket/images/21}}
+		\caption{New mechanism for extracting lift}
+	\end{minipage}
+\end{figure}
 \end{itemize}
 \fillpage
 
@@ -75,6 +83,14 @@
 		\caption{Model of the mount for bucket}
 	\end{minipage}
 \end{figure}
+
+\item Later the mount of bucket to servo was changed. It was decided to make it without gear because gears can slip and they have a big backlash.
+\begin{figure}[H]
+	\begin{minipage}[h]{\linewidth}
+		\center{\includegraphics[scale=0.6]{days_L/Lift+bucket/images/22}}
+		\caption{Changed mount for bucket}
+	\end{minipage}
+\end{figure} 
 
 \item The bucket equped by the cover that turn by the servo and close entrance hole of the bucket. It prevent to falling debris out it during turning of the moving beam of lift. Also it can to prevent balls get into the bucket when we collect only cubes. When it closed not fully (so that distance between bottom edge of cover and floor is about 6cm) the cube can get into the bucket but the ball is not. When we open cover the balls can get to the bucket.
 \item The cover fix on 14cm beam that turn by the servo. It was decided use so long beam as the most optimal variant when cover move vertically because otherwise it can to prevent rotating gripper for debris. When it turn around the circle with big radius trajectory of cover's moving is close to vertical.
@@ -112,7 +128,7 @@
 		\caption{The table of moments for servos}
 	\end{minipage}
 \end{figure}
-\item In addition it was calculated moment of force that acts to DC motor that turn lift. So it was decided to install transmission with gear ratio 6:1.
+\item In addition it was calculated moment of force that acts to DC motor that turn lift. So it was decided to install transmission with gear ratio 8:1.
 \begin{figure}[H]
 	\begin{minipage}[h]{\linewidth}
 		\center{\includegraphics[scale=0.6]{days_L/Lift+bucket/images/14}}

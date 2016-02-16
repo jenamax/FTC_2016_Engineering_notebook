@@ -7,7 +7,7 @@
 		\item Testing and debugging of the mechanism
 	\end{enumerate}
 	
-	The module turns F-shaped beam using servo. On the top of beam is a bucket with climbers. After beam turns, bucket turns over. Climbers go to the box. At the end of other part of a beam is a light sensor. He detects color of a button and presses it. Robot performs it at autonomous period.
+	The module turns an F-shaped beam using a servo. On the top of beam there is a bucket with climbers. After the beam turns, the bucket turns over, and the climbers go to the box. At the end of other part of the beam is a light sensor. It detects the color of a button and presses it. The robot performs this during the autonomous period.
   \begin{figure}[H]
 		\begin{minipage}[h]{\linewidth}
 			\center{\includegraphics[scale=0.5]{days_L/Meetings/images/08}}
@@ -18,9 +18,9 @@
 	\paragraph{Ideas that were looked:}
 	
 	\begin{enumerate}	
-		\item The first idea was the following: we decided to use two beams. Two beams turns, the light sensor on the end of each beam detects the correct button. Beam, which detects the correct button wrests in place. The other beam turns up. The robot goes forward and presses the correct button. But this idea isn't good because we using two servos and this is very difficult and the module take up much up space.
+		\item The first idea was the following: we decided to use two beams. The two beams turn, and the light sensor on the end of each beam detects the correct button. The beam, which detects the correct button rests in place. The other beam turns up. The robot goes forward and presses the correct button. But this idea isn't good, because we have to use two servos, and this is very difficult, and the module take up too much space.
 	
-		\item Another idea was the following: we decided to use one beam. The beam turns and the light sensor on the end of the beam detects the color of the right button. If this color is correct, the robot turns right and then goes forward. Else the robot turns left and then goes forward. This algoritm is slower, but it's lighter and the model takes not as much space. We decided to use twice algoritm.
+		\item Another idea was the following: we use one beam. The beam turns and the light sensor on the end of the beam detects the color of the right button. If this color is correct, the robot turns right and then goes forward. Otherwise the robot turns left and then goes forward. This algoritm is slower, but it's lighter, and the model takes not as much space. We decided to use this algoritm.
 	\end{enumerate}
 	
 	\paragraph{Calculation of moments}
@@ -42,8 +42,8 @@
 	 
 	 \begin{itemize}
 	 
-		 \item A dimension of the bucket is 6x5.5x12 mm. A dimenension of the main beam is 20x0.5x1.5 mm.
+		 \item The dimensions of the bucket are 6x5.5x12 mm. The dimenension of the main beam are 20x0.5x1.5 mm.
 	 
-		 \item The robot must stay near the button on the distance 16.9 cm. Also the main beam must be in the middle of the beacon. Than the robot turns beam on 48 degrees and the climbers go down. Than the robot must go forward on the distance 5 cm. After that the robot turns beam on 42 degrees. Than the robot detects correct button and turns in his side on 9 degrees. At the end the robot goes forward and presses correct button.
+		 \item The robot must stay near the button at a distance of 16.9 cm. Also, the main beam must be in the middle of the beacon. Then the robot turns the beam 48 degrees and the climbers go down. Then the robot must go forward for a distance of 5 cm. After that, the robot turns beam 42 degrees. Then the robot detects correct button and turns in its side 9 degrees. At the end the robot goes forward and presses correct button.
 	\end{itemize}
 	\fillpage
